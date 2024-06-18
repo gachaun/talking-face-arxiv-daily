@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.06.17
+> Updated on 2024.06.18
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -240,7 +240,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-11-19, **MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets**, Sungjoo Ha et.al., Paper: [http://arxiv.org/abs/1911.08139](http://arxiv.org/abs/1911.08139)
 - 2021-02-25, **MakeItTalk: Speaker-Aware Talking-Head Animation**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2004.12992](http://arxiv.org/abs/2004.12992)
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
-- 2024-06-12, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
+- 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
 - 2023-12-13, **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2303.09797](http://arxiv.org/abs/2303.09797)
 - 2024-01-31, **MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**, Wenhao Guan et.al., Paper: [http://arxiv.org/abs/2312.10687](http://arxiv.org/abs/2312.10687)
@@ -306,7 +306,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-05-09, **Hierarchical Cross-Modal Talking Face Generationwith Dynamic Pixel-Wise Loss**, Lele Chen et.al., Paper: [http://arxiv.org/abs/1905.03820](http://arxiv.org/abs/1905.03820), Code: **[https://github.com/lelechen63/ATVGnet](https://github.com/lelechen63/ATVGnet)**
 - 2021-08-23, **HeadGAN: One-shot Neural Head Synthesis and Editing**, Michail Christos Doukas et.al., Paper: [http://arxiv.org/abs/2012.08261](http://arxiv.org/abs/2012.08261)
 - 2020-05-22, **Head2Head: Video-based Neural Head Synthesis**, Mohammad Rami Koujan et.al., Paper: [http://arxiv.org/abs/2005.10954](http://arxiv.org/abs/2005.10954)
-- 2024-06-13, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
+- 2024-06-16, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
 - 2023-09-14, **HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**, Yongyuan Li et.al., Paper: [http://arxiv.org/abs/2309.07495](http://arxiv.org/abs/2309.07495), Code: **[https://github.com/yylgoodlucky/hdtr](https://github.com/yylgoodlucky/hdtr)**
 - 2024-04-07, **GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**, Dongjing Shan et.al., Paper: [http://arxiv.org/abs/2404.04924](http://arxiv.org/abs/2404.04924)
 - 2023-10-08, **GestSync: Determining who is speaking without a talking head**, Sindhu B Hegde et.al., Paper: [http://arxiv.org/abs/2310.05304](http://arxiv.org/abs/2310.05304), Code: **[https://github.com/Sindhu-Hegde/gestsync](https://github.com/Sindhu-Hegde/gestsync)**
@@ -547,7 +547,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Image Animation
 
@@ -586,7 +586,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-10-04, **Implicit Warping for Animation with Image Sets**, Arun Mallya et.al., Paper: [http://arxiv.org/abs/2210.01794](http://arxiv.org/abs/2210.01794)
 - 2022-03-29, **Image Animation with Perturbed Masks**, Yoav Shalev et.al., Paper: [http://arxiv.org/abs/2011.06922](http://arxiv.org/abs/2011.06922), Code: **[https://github.com/itsyoavshalev/Image-Animation-with-Perturbed-Masks](https://github.com/itsyoavshalev/Image-Animation-with-Perturbed-Masks)**
 - 2021-12-21, **Image Animation with Keypoint Mask**, Or Toledano et.al., Paper: [http://arxiv.org/abs/2112.10457](http://arxiv.org/abs/2112.10457), Code: **[https://github.com/or-toledano/animation-with-keypoint-mask](https://github.com/or-toledano/animation-with-keypoint-mask)**
-- 2024-06-13, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
+- 2024-06-16, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
 - 2016-06-23, **Gender and Interest Targeting for Sponsored Post Advertising at Tumblr**, Mihajlo Grbovic et.al., Paper: [http://arxiv.org/abs/1606.07189](http://arxiv.org/abs/1606.07189)
 - 2024-06-13, **Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**, Jingyun Xue et.al., Paper: [http://arxiv.org/abs/2406.03035](http://arxiv.org/abs/2406.03035)
 - 2024-03-13, **Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**, Yue Ma et.al., Paper: [http://arxiv.org/abs/2403.08268](http://arxiv.org/abs/2403.08268), Code: **[https://github.com/mayuelala/followyourclick](https://github.com/mayuelala/followyourclick)**
@@ -614,7 +614,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 Notes: 
 
