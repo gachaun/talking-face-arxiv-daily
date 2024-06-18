@@ -53,8 +53,11 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
+|**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
 |**2024-06-17**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
+|**2024-06-15**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553](http://arxiv.org/abs/2406.10553)|null|
 |**2024-06-14**|**DNPM: A Neural Parametric Model for the Synthesis of Facial Geometric Details**|Haitao Cao et.al.|[2405.19688](http://arxiv.org/abs/2405.19688)|null|
 |**2024-06-13**|**Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**|Jack Merullo et.al.|[2406.09519](http://arxiv.org/abs/2406.09519)|null|
 |**2024-06-13**|**DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**|Neha Sahipjohn et.al.|[2406.08802](http://arxiv.org/abs/2406.08802)|null|
