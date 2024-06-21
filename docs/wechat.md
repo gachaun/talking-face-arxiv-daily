@@ -170,6 +170,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-10-19, **Real-Time Lip Sync for Live 2D Animation**, Deepali Aneja et.al., Paper: [http://arxiv.org/abs/1910.08685](http://arxiv.org/abs/1910.08685), Code: **[https://github.com/deepalianeja/CharacterLipSync2D](https://github.com/deepalianeja/CharacterLipSync2D)**
 - 2020-08-04, **Real-Time Cleaning and Refinement of Facial Animation Signals**, Eloïse Berson et.al., Paper: [http://arxiv.org/abs/2008.01332](http://arxiv.org/abs/2008.01332)
 - 2010-03-01, **Re-verification of a Lip Synchronization Protocol using Robust Reachability**, Piotr Kordy et.al., Paper: [http://arxiv.org/abs/1003.0431](http://arxiv.org/abs/1003.0431)
+- 2024-06-18, **RITA: A Real-time Interactive Talking Avatars Framework**, Wuxinlin Cheng et.al., Paper: [http://arxiv.org/abs/2406.13093](http://arxiv.org/abs/2406.13093)
 - 2023-11-06, **RADIO: Reference-Agnostic Dubbing Video Synthesis**, Dongyeun Lee et.al., Paper: [http://arxiv.org/abs/2309.01950](http://arxiv.org/abs/2309.01950)
 - 2023-12-09, **R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**, Zhiling Ye et.al., Paper: [http://arxiv.org/abs/2312.05572](http://arxiv.org/abs/2312.05572)
 - 2019-08-20, **Prosodic Phrase Alignment for Machine Dubbing**, Alp Öktem et.al., Paper: [http://arxiv.org/abs/1908.07226](http://arxiv.org/abs/1908.07226), Code: **[https://github.com/alpoktem/MachineDub](https://github.com/alpoktem/MachineDub)**
@@ -221,6 +222,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-05-31, **MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**, Saif Mahmud et.al., Paper: [http://arxiv.org/abs/2405.21004](http://arxiv.org/abs/2405.21004)
 - 2023-05-09, **Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02594](http://arxiv.org/abs/2305.02594)
 - 2017-07-21, **Multichannel Attention Network for Analyzing Visual Behavior in Public Speaking**, Rahul Sharma et.al., Paper: [http://arxiv.org/abs/1707.06830](http://arxiv.org/abs/1707.06830)
+- 2024-06-20, **MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2406.14272](http://arxiv.org/abs/2406.14272)
 - 2022-03-04, **Multi-modality Deep Restoration of Extremely Compressed Face Videos**, Xi Zhang et.al., Paper: [http://arxiv.org/abs/2107.05548](http://arxiv.org/abs/2107.05548)
 - 2020-12-14, **Multi Modal Adaptive Normalization for Audio to Video Generation**, Neeraj Kumar et.al., Paper: [http://arxiv.org/abs/2012.07304](http://arxiv.org/abs/2012.07304)
 - 2020-05-27, **Modality Dropout for Improved Performance-driven Talking Faces**, Ahmed Hussen Abdelaziz et.al., Paper: [http://arxiv.org/abs/2005.13616](http://arxiv.org/abs/2005.13616)
@@ -451,6 +453,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-06-14, **DNPM: A Neural Parametric Model for the Synthesis of Facial Geometric Details**, Haitao Cao et.al., Paper: [http://arxiv.org/abs/2405.19688](http://arxiv.org/abs/2405.19688)
 - 2023-03-07, **DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video**, Zhimeng Zhang et.al., Paper: [http://arxiv.org/abs/2303.03988](http://arxiv.org/abs/2303.03988), Code: **[https://github.com/MRzzm/DINet](https://github.com/MRzzm/DINet)**
 - 2022-01-03, **DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering**, Shunyu Yao et.al., Paper: [http://arxiv.org/abs/2201.00791](http://arxiv.org/abs/2201.00791)
+- 2024-06-19, **DF40: Toward Next-Generation Deepfake Detection**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2406.13495](http://arxiv.org/abs/2406.13495)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
 - 2024-03-01, **DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**, Chenpeng Du et.al., Paper: [http://arxiv.org/abs/2303.17550](http://arxiv.org/abs/2303.17550)
@@ -510,6 +513,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-05-06, **AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2405.03121](http://arxiv.org/abs/2405.03121), Code: **[https://github.com/x-lance/anitalker](https://github.com/x-lance/anitalker)**
 - 2024-03-26, **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation**, Huawei Wei et.al., Paper: [http://arxiv.org/abs/2403.17694](http://arxiv.org/abs/2403.17694), Code: **[https://github.com/scutzzj/aniportrait](https://github.com/scutzzj/aniportrait)**
 - 2023-06-13, **AniFaceDrawing: Anime Portrait Exploration during Your Sketching**, Zhengyu Huang et.al., Paper: [http://arxiv.org/abs/2306.07476](http://arxiv.org/abs/2306.07476)
+- 2024-06-19, **AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**, Ken Chen et.al., Paper: [http://arxiv.org/abs/2406.13272](http://arxiv.org/abs/2406.13272)
 - 2020-09-20, **An Improved Approach of Intention Discovery with Machine Learning for POMDP-based Dialogue Management**, Ruturaj Raval et.al., Paper: [http://arxiv.org/abs/2009.09354](http://arxiv.org/abs/2009.09354)
 - 2024-01-27, **An Implicit Physical Face Model Driven by Expression and Style**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.15414](http://arxiv.org/abs/2401.15414)
 - 2022-03-10, **An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection**, Ganglai Wang et.al., Paper: [http://arxiv.org/abs/2203.05178](http://arxiv.org/abs/2203.05178)

@@ -49,6 +49,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset**|Kim Sung-Bin et.al.|[2406.14272](http://arxiv.org/abs/2406.14272)|null|
+|**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|null|
+|**2024-06-19**|**AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**|Ken Chen et.al.|[2406.13272](http://arxiv.org/abs/2406.13272)|null|
+|**2024-06-18**|**RITA: A Real-time Interactive Talking Avatars Framework**|Wuxinlin Cheng et.al.|[2406.13093](http://arxiv.org/abs/2406.13093)|null|
 |**2024-06-18**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553](http://arxiv.org/abs/2406.10553)|null|
 |**2024-06-17**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
 |**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
