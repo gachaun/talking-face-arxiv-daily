@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.06.27
+### Automatically Updated on 2024.06.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -50,7 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-26**|**RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network**|Xiaozhong Ji et.al.|[2406.18284](http://arxiv.org/abs/2406.18284)|null|
-|**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|null|
+|**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|**[link](https://github.com/scofield7419/empathyear)**|
 |**2024-06-20**|**MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset**|Kim Sung-Bin et.al.|[2406.14272](http://arxiv.org/abs/2406.14272)|null|
 |**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|null|
 |**2024-06-19**|**AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**|Ken Chen et.al.|[2406.13272](http://arxiv.org/abs/2406.13272)|null|

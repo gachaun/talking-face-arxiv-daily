@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.06.27
+> Updated on 2024.06.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -386,7 +386,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2018-07-19, **End-to-End Speech-Driven Facial Animation with Temporal GANs**, Konstantinos Vougioukas et.al., Paper: [http://arxiv.org/abs/1805.09313](http://arxiv.org/abs/1805.09313)
 - 2021-03-19, **End-to-End Lip Synchronisation Based on Pattern Classification**, You Jin Kim et.al., Paper: [http://arxiv.org/abs/2005.08606](http://arxiv.org/abs/2005.08606)
 - 2022-03-30, **End to End Lip Synchronization with a Temporal AutoEncoder**, Yoav Shalev et.al., Paper: [http://arxiv.org/abs/2203.16224](http://arxiv.org/abs/2203.16224), Code: **[https://github.com/itsyoavshalev/end-to-end-lip-synchronization-with-a-temporal-autoencoder](https://github.com/itsyoavshalev/end-to-end-lip-synchronization-with-a-temporal-autoencoder)**
-- 2024-06-21, **EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**, Hao Fei et.al., Paper: [http://arxiv.org/abs/2406.15177](http://arxiv.org/abs/2406.15177)
+- 2024-06-21, **EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**, Hao Fei et.al., Paper: [http://arxiv.org/abs/2406.15177](http://arxiv.org/abs/2406.15177), Code: **[https://github.com/scofield7419/empathyear](https://github.com/scofield7419/empathyear)**
 - 2023-03-26, **Emotionally Enhanced Talking Face Generation**, Sahil Goyal et.al., Paper: [http://arxiv.org/abs/2303.11548](http://arxiv.org/abs/2303.11548), Code: **[https://github.com/sahilg06/EmoGen](https://github.com/sahilg06/EmoGen)**
 - 2023-06-06, **Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks**, Jianrong Wang et.al., Paper: [http://arxiv.org/abs/2306.03594](http://arxiv.org/abs/2306.03594)
 - 2023-09-26, **Emotional Speech-Driven Animation with Content-Emotion Disentanglement**, Radek Daněček et.al., Paper: [http://arxiv.org/abs/2306.08990](http://arxiv.org/abs/2306.08990)
@@ -556,7 +556,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## Image Animation
 
@@ -623,7 +623,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 Notes: 
 
