@@ -382,6 +382,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-09-11, **ExpCLIP: Bridging Text and Facial Expressions via Semantic Alignment**, Yicheng Zhong et.al., Paper: [http://arxiv.org/abs/2308.14448](http://arxiv.org/abs/2308.14448)
 - 2021-04-07, **Everything's Talkin': Pareidolia Face Reenactment**, Linsen Song et.al., Paper: [http://arxiv.org/abs/2104.03061](http://arxiv.org/abs/2104.03061), Code: **[https://github.com/Linsen13/EverythingTalking](https://github.com/Linsen13/EverythingTalking)**
 - 2021-03-03, **Estimating Uniqueness of I-Vector Representation of Human Voice**, Erkam Sinan Tandogan et.al., Paper: [http://arxiv.org/abs/2008.11985](http://arxiv.org/abs/2008.11985)
+- 2024-07-01, **Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert**, Han EunGi et.al., Paper: [http://arxiv.org/abs/2407.01034](http://arxiv.org/abs/2407.01034)
 - 2017-12-07, **End-to-end Learning for 3D Facial Animation from Raw Waveforms of Speech**, Hai X. Pham et.al., Paper: [http://arxiv.org/abs/1710.00920](http://arxiv.org/abs/1710.00920)
 - 2018-07-19, **End-to-End Speech-Driven Facial Animation with Temporal GANs**, Konstantinos Vougioukas et.al., Paper: [http://arxiv.org/abs/1805.09313](http://arxiv.org/abs/1805.09313)
 - 2021-03-19, **End-to-End Lip Synchronisation Based on Pattern Classification**, You Jin Kim et.al., Paper: [http://arxiv.org/abs/2005.08606](http://arxiv.org/abs/2005.08606)

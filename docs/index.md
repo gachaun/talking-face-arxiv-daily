@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert**|Han EunGi et.al.|[2407.01034](http://arxiv.org/abs/2407.01034)|null|
 |**2024-06-26**|**RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network**|Xiaozhong Ji et.al.|[2406.18284](http://arxiv.org/abs/2406.18284)|null|
 |**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|**[link](https://github.com/scofield7419/empathyear)**|
 |**2024-06-20**|**MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset**|Kim Sung-Bin et.al.|[2406.14272](http://arxiv.org/abs/2406.14272)|null|
