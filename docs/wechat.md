@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.07.05
+> Updated on 2024.07.06
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -250,7 +250,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-31, **MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**, Wenhao Guan et.al., Paper: [http://arxiv.org/abs/2312.10687](http://arxiv.org/abs/2312.10687)
 - 2024-04-03, **MI-NeRF: Learning a Single Face NeRF from Multiple Identities**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2403.19920](http://arxiv.org/abs/2403.19920)
 - 2023-03-22, **MARLIN: Masked Autoencoder for facial video Representation LearnINg**, Zhixi Cai et.al., Paper: [http://arxiv.org/abs/2211.06627](http://arxiv.org/abs/2211.06627), Code: **[https://github.com/ControlNet/MARLIN](https://github.com/ControlNet/MARLIN)**
-- 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168](http://arxiv.org/abs/2407.03168)
+- 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168](http://arxiv.org/abs/2407.03168), Code: **[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**
 - 2021-09-24, **Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2109.10595](http://arxiv.org/abs/2109.10595)
 - 2024-05-12, **Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation**, Changpeng Cai et.al., Paper: [http://arxiv.org/abs/2405.07257](http://arxiv.org/abs/2405.07257)
 - 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668), Code: **[https://github.com/aaroncomo/lipfd](https://github.com/aaroncomo/lipfd)**
@@ -558,7 +558,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240706>back to top</a>)</p>
 
 ## Image Animation
 
@@ -625,7 +625,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240706>back to top</a>)</p>
 
 Notes: 
 

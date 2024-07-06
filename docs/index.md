@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.07.05
+### Automatically Updated on 2024.07.06
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -49,7 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
 |**2024-07-01**|**Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert**|Han EunGi et.al.|[2407.01034](http://arxiv.org/abs/2407.01034)|null|
 |**2024-06-26**|**RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network**|Xiaozhong Ji et.al.|[2406.18284](http://arxiv.org/abs/2406.18284)|null|
 |**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|**[link](https://github.com/scofield7419/empathyear)**|
