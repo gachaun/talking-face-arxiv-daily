@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.07.07
+### Automatically Updated on 2024.07.08
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
 |**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
 |**2024-07-01**|**Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert**|Han EunGi et.al.|[2407.01034](http://arxiv.org/abs/2407.01034)|null|
 |**2024-06-26**|**RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network**|Xiaozhong Ji et.al.|[2406.18284](http://arxiv.org/abs/2406.18284)|null|
@@ -58,7 +59,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-06-19**|**AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**|Ken Chen et.al.|[2406.13272](http://arxiv.org/abs/2406.13272)|null|
 |**2024-06-18**|**RITA: A Real-time Interactive Talking Avatars Framework**|Wuxinlin Cheng et.al.|[2406.13093](http://arxiv.org/abs/2406.13093)|null|
 |**2024-06-18**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553](http://arxiv.org/abs/2406.10553)|null|
-|**2024-06-17**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
 |**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
 |**2024-06-17**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
