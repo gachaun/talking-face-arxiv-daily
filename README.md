@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
 |**2024-07-08**|**MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**|Jianwen Jiang et.al.|[2407.05712](http://arxiv.org/abs/2407.05712)|null|
 |**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
 |**2024-07-04**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
@@ -566,6 +567,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
 |**2024-07-11**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|**[link](https://github.com/myniuuu/mofa-video)**|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
 |**2024-06-13**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
