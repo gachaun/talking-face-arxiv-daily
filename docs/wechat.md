@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.07.14
+> Updated on 2024.07.15
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -407,7 +407,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-16, **Efficient conditioned face animation using frontally-viewed embedding**, Maxime Oquab et.al., Paper: [http://arxiv.org/abs/2203.08765](http://arxiv.org/abs/2203.08765)
 - 2023-08-24, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323](http://arxiv.org/abs/2307.09323), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
 - 2023-10-12, **Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation**, Yuan Gan et.al., Paper: [http://arxiv.org/abs/2309.04946](http://arxiv.org/abs/2309.04946), Code: **[https://github.com/yuangan/eat_code](https://github.com/yuangan/eat_code)**
-- 2024-07-11, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
+- 2024-07-12, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
 - 2024-04-29, **EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars**, Nikita Drobyshev et.al., Paper: [http://arxiv.org/abs/2404.19110](http://arxiv.org/abs/2404.19110)
 - 2024-02-27, **EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**, Linrui Tian et.al., Paper: [http://arxiv.org/abs/2402.17485](http://arxiv.org/abs/2402.17485)
 - 2024-04-11, **EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**, Trung Tuan Dao et.al., Paper: [http://arxiv.org/abs/2312.17205](http://arxiv.org/abs/2312.17205)
@@ -561,7 +561,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 ## Image Animation
 
@@ -606,7 +606,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-13, **Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**, Yue Ma et.al., Paper: [http://arxiv.org/abs/2403.08268](http://arxiv.org/abs/2403.08268), Code: **[https://github.com/mayuelala/followyourclick](https://github.com/mayuelala/followyourclick)**
 - 2020-10-01, **First Order Motion Model for Image Animation**, Aliaksandr Siarohin et.al., Paper: [http://arxiv.org/abs/2003.00196](http://arxiv.org/abs/2003.00196), Code: **[https://github.com/AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)**
 - 2024-05-29, **Evaluating the efectiveness of sonifcation in science education using Edukoi**, Lucrezia Guiotto Nai Fovino et.al., Paper: [http://arxiv.org/abs/2405.18908](http://arxiv.org/abs/2405.18908)
-- 2024-07-11, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
+- 2024-07-12, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
 - 2023-11-27, **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2310.12190](http://arxiv.org/abs/2310.12190), Code: **[https://github.com/Doubiiu/DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter)**
 - 2023-02-02, **Dreamix: Video Diffusion Models are General Video Editors**, Eyal Molad et.al., Paper: [http://arxiv.org/abs/2302.01329](http://arxiv.org/abs/2302.01329)
 - 2023-11-19, **Differential Motion Evolution for Fine-Grained Motion Deformation in Unsupervised Image Animation**, Peirong Liu et.al., Paper: [http://arxiv.org/abs/2110.04658](http://arxiv.org/abs/2110.04658)
@@ -629,7 +629,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 Notes: 
 
