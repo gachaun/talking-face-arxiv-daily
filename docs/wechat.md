@@ -196,6 +196,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-02-05, **One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2402.03553](http://arxiv.org/abs/2402.03553)
 - 2021-04-26, **One-shot Face Reenactment Using Appearance Adaptive Normalization**, Guangming Yao et.al., Paper: [http://arxiv.org/abs/2102.03984](http://arxiv.org/abs/2102.03984)
 - 2019-08-05, **One-shot Face Reenactment**, Yunxuan Zhang et.al., Paper: [http://arxiv.org/abs/1908.03251](http://arxiv.org/abs/1908.03251), Code: **[https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment](https://github.com/bj80heyue/Learning_One_Shot_Face_Reenactment)**
+- 2024-07-12, **One-Shot Pose-Driving Face Animation Platform**, He Feng et.al., Paper: [http://arxiv.org/abs/2407.08949](http://arxiv.org/abs/2407.08949)
 - 2023-04-11, **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li et.al., Paper: [http://arxiv.org/abs/2304.05097](http://arxiv.org/abs/2304.05097)
 - 2021-04-02, **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing**, Ting-Chun Wang et.al., Paper: [http://arxiv.org/abs/2011.15126](http://arxiv.org/abs/2011.15126)
 - 2022-05-26, **One-Shot Face Reenactment on Megapixels**, Wonjun Kang et.al., Paper: [http://arxiv.org/abs/2205.13368](http://arxiv.org/abs/2205.13368)
@@ -574,6 +575,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-05, **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**, Weijie Li et.al., Paper: [http://arxiv.org/abs/2403.02827](http://arxiv.org/abs/2403.02827)
 - 2022-03-29, **Thin-Plate Spline Motion Model for Image Animation**, Jian Zhao et.al., Paper: [http://arxiv.org/abs/2203.14367](http://arxiv.org/abs/2203.14367), Code: **[https://github.com/yoyo-nb/thin-plate-spline-motion-model](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**
 - 2023-09-26, **Text-Guided Synthesis of Eulerian Cinemagraphs**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2307.03190](http://arxiv.org/abs/2307.03190), Code: **[https://github.com/text2cinemagraph/text2cinemagraph](https://github.com/text2cinemagraph/text2cinemagraph)**
+- 2024-07-12, **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**, Jeongho Kim et.al., Paper: [http://arxiv.org/abs/2407.09012](http://arxiv.org/abs/2407.09012)
 - 2021-09-03, **Sparse to Dense Motion Transfer for Face Image Animation**, Ruiqi Zhao et.al., Paper: [http://arxiv.org/abs/2109.00471](http://arxiv.org/abs/2109.00471)
 - 2022-07-19, **Single Stage Virtual Try-on via Deformable Attention Flows**, Shuai Bai et.al., Paper: [http://arxiv.org/abs/2207.09161](http://arxiv.org/abs/2207.09161), Code: **[https://github.com/OFA-Sys/DAFlow](https://github.com/OFA-Sys/DAFlow)**
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
