@@ -87,6 +87,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-29, **Thin-Plate Spline Motion Model for Image Animation**, Jian Zhao et.al., Paper: [http://arxiv.org/abs/2203.14367](http://arxiv.org/abs/2203.14367), Code: **[https://github.com/yoyo-nb/thin-plate-spline-motion-model](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**
 - 2023-10-23, **The Self 2.0: How AI-Enhanced Self-Clones Transform Self-Perception and Improve Presentation Skills**, Qingxiao Zheng et.al., Paper: [http://arxiv.org/abs/2310.15112](http://arxiv.org/abs/2310.15112)
 - 2008-12-16, **The Korrontea Data Modeling**, Emmanuel Bouix et.al., Paper: [http://arxiv.org/abs/0812.2988](http://arxiv.org/abs/0812.2988)
+- 2024-06-24, **The Effects of Embodiment and Personality Expression on Learning in LLM-based Educational Agents**, Sinan Sonlu et.al., Paper: [http://arxiv.org/abs/2407.10993](http://arxiv.org/abs/2407.10993)
 - 2023-09-18, **That's What I Said: Fully-Controllable Talking Face Generation**, Youngjoon Jang et.al., Paper: [http://arxiv.org/abs/2304.03275](http://arxiv.org/abs/2304.03275)
 - 2022-01-22, **Text2Video: Text-driven Talking-head Video Synthesis with Personalized Phoneme-Pose Dictionary**, Sibo Zhang et.al., Paper: [http://arxiv.org/abs/2104.14631](http://arxiv.org/abs/2104.14631)
 - 2022-05-31, **Text/Speech-Driven Full-Body Animation**, Wenlin Zhuang et.al., Paper: [http://arxiv.org/abs/2205.15573](http://arxiv.org/abs/2205.15573)
