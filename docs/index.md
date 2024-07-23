@@ -49,6 +49,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-21**|**Anchored Diffusion for Video Face Reenactment**|Idan Kligvasser et.al.|[2407.15153](http://arxiv.org/abs/2407.15153)|null|
+|**2024-07-20**|**Text-based Talking Video Editing with Cascaded Conditional Diffusion**|Bo Han et.al.|[2407.14841](http://arxiv.org/abs/2407.14841)|null|
 |**2024-07-17**|**Universal Facial Encoding of Codec Avatars from VR Headsets**|Shaojie Bai et.al.|[2407.13038](http://arxiv.org/abs/2407.13038)|null|
 |**2024-07-17**|**EmoFace: Audio-driven Emotional 3D Face Animation**|Chang Liu et.al.|[2407.12501](http://arxiv.org/abs/2407.12501)|**[link](https://github.com/sjtu-lucy/emoface)**|
 |**2024-07-13**|**Learning Online Scale Transformation for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2407.09965](http://arxiv.org/abs/2407.09965)|null|
@@ -566,6 +568,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642](http://arxiv.org/abs/2407.15642)|**[link](https://github.com/maxin-cn/Cinemo)**|
 |**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012](http://arxiv.org/abs/2407.09012)|null|
 |**2024-07-12**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
 |**2024-07-11**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|**[link](https://github.com/myniuuu/mofa-video)**|
