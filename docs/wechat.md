@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.07.23
+> Updated on 2024.07.24
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -568,7 +568,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Image Animation
 
@@ -623,7 +623,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-05-28, **Controllable Longer Image Animation with Diffusion Models**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2405.17306](http://arxiv.org/abs/2405.17306)
 - 2023-01-14, **Continuous odor profile monitoring to study olfactory navigation in small animals**, Kevin S. Chen et.al., Paper: [http://arxiv.org/abs/2301.05905](http://arxiv.org/abs/2301.05905)
 - 2024-01-17, **Continuous Piecewise-Affine Based Motion Model for Image Animation**, Hexiang Wang et.al., Paper: [http://arxiv.org/abs/2401.09146](http://arxiv.org/abs/2401.09146), Code: **[https://github.com/devilpg/aaai2024-cpabmm](https://github.com/devilpg/aaai2024-cpabmm)**
-- 2024-07-22, **Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**, Xin Ma et.al., Paper: [http://arxiv.org/abs/2407.15642](http://arxiv.org/abs/2407.15642), Code: **[https://github.com/maxin-cn/Cinemo](https://github.com/maxin-cn/Cinemo)**
+- 2024-07-23, **Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**, Xin Ma et.al., Paper: [http://arxiv.org/abs/2407.15642](http://arxiv.org/abs/2407.15642), Code: **[https://github.com/maxin-cn/Cinemo](https://github.com/maxin-cn/Cinemo)**
 - 2024-06-01, **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**, Shenhao Zhu et.al., Paper: [http://arxiv.org/abs/2403.14781](http://arxiv.org/abs/2403.14781), Code: **[https://github.com/fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)**
 - 2022-06-11, **Bayesian Statistics Guided Label Refurbishment Mechanism: Mitigating Label Noise in Medical Image Classification**, Mengdi Gao et.al., Paper: [http://arxiv.org/abs/2106.12284](http://arxiv.org/abs/2106.12284), Code: **[https://github.com/neugmd/blrm](https://github.com/neugmd/blrm)**
 - 2023-09-25, **Automatic Animation of Hair Blowing in Still Portrait Photos**, Wenpeng Xiao et.al., Paper: [http://arxiv.org/abs/2309.14207](http://arxiv.org/abs/2309.14207)
@@ -638,7 +638,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 Notes: 
 
