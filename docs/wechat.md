@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.07.29
+> Updated on 2024.07.30
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -571,7 +571,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Image Animation
 
@@ -611,7 +611,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-10-04, **Implicit Warping for Animation with Image Sets**, Arun Mallya et.al., Paper: [http://arxiv.org/abs/2210.01794](http://arxiv.org/abs/2210.01794)
 - 2022-03-29, **Image Animation with Perturbed Masks**, Yoav Shalev et.al., Paper: [http://arxiv.org/abs/2011.06922](http://arxiv.org/abs/2011.06922), Code: **[https://github.com/itsyoavshalev/Image-Animation-with-Perturbed-Masks](https://github.com/itsyoavshalev/Image-Animation-with-Perturbed-Masks)**
 - 2021-12-21, **Image Animation with Keypoint Mask**, Or Toledano et.al., Paper: [http://arxiv.org/abs/2112.10457](http://arxiv.org/abs/2112.10457), Code: **[https://github.com/or-toledano/animation-with-keypoint-mask](https://github.com/or-toledano/animation-with-keypoint-mask)**
-- 2024-07-24, **HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2407.17438](http://arxiv.org/abs/2407.17438), Code: **[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)**
+- 2024-07-28, **HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2407.17438](http://arxiv.org/abs/2407.17438), Code: **[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)**
 - 2024-06-16, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
 - 2016-06-23, **Gender and Interest Targeting for Sponsored Post Advertising at Tumblr**, Mihajlo Grbovic et.al., Paper: [http://arxiv.org/abs/1606.07189](http://arxiv.org/abs/1606.07189)
 - 2024-06-13, **Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**, Jingyun Xue et.al., Paper: [http://arxiv.org/abs/2406.03035](http://arxiv.org/abs/2406.03035)
@@ -642,7 +642,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 Notes: 
 
