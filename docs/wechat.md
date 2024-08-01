@@ -196,6 +196,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-03-23, **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**, Sizhe An et.al., Paper: [http://arxiv.org/abs/2303.13071](http://arxiv.org/abs/2303.13071)
 - 2023-12-05, **PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features**, Tianshun Han et.al., Paper: [http://arxiv.org/abs/2312.02781](http://arxiv.org/abs/2312.02781)
 - 2023-09-13, **PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network**, Qinghua Liu et.al., Paper: [http://arxiv.org/abs/2309.06723](http://arxiv.org/abs/2309.06723)
+- 2024-07-22, **PAV: Personalized Head Avatar from Unstructured Video Collection**, Akin Caliskan et.al., Paper: [http://arxiv.org/abs/2407.21047](http://arxiv.org/abs/2407.21047)
 - 2024-05-28, **OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**, Shuheng Ge et.al., Paper: [http://arxiv.org/abs/2405.14709](http://arxiv.org/abs/2405.14709)
 - 2021-12-06, **One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning**, Suzhen Wang et.al., Paper: [http://arxiv.org/abs/2112.02749](http://arxiv.org/abs/2112.02749)
 - 2024-02-05, **One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2402.03553](http://arxiv.org/abs/2402.03553)
@@ -450,6 +451,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-10-16, **Designing Style Matching Conversational Agents**, Deepali Aneja et.al., Paper: [http://arxiv.org/abs/1910.07514](http://arxiv.org/abs/1910.07514)
 - 2022-03-15, **Depth-Aware Generative Adversarial Network for Talking Head Video Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2203.06605](http://arxiv.org/abs/2203.06605), Code: **[https://github.com/harlanhong/cvpr2022-dagan](https://github.com/harlanhong/cvpr2022-dagan)**
 - 2020-07-20, **Deformable Style Transfer**, Sunnie S. Y. Kim et.al., Paper: [http://arxiv.org/abs/2003.11038](http://arxiv.org/abs/2003.11038), Code: **[https://github.com/sunniesuhyoung/DST](https://github.com/sunniesuhyoung/DST)**
+- 2024-07-31, **Deformable 3D Shape Diffusion Model**, Dengsheng Chen et.al., Paper: [http://arxiv.org/abs/2407.21428](http://arxiv.org/abs/2407.21428)
 - 2024-04-09, **Deepfake Generation and Detection: A Benchmark and Survey**, Gan Pei et.al., Paper: [http://arxiv.org/abs/2403.17881](http://arxiv.org/abs/2403.17881), Code: **[https://github.com/flyingby/awesome-deepfake-generation-and-detection](https://github.com/flyingby/awesome-deepfake-generation-and-detection)**
 - 2018-12-20, **DeepFakes: a New Threat to Face Recognition? Assessment and Detection**, Pavel Korshunov et.al., Paper: [http://arxiv.org/abs/1812.08685](http://arxiv.org/abs/1812.08685)
 - 2021-08-18, **DeepFake MNIST+: A DeepFake Facial Animation Dataset**, Jiajun Huang et.al., Paper: [http://arxiv.org/abs/2108.07949](http://arxiv.org/abs/2108.07949), Code: **[https://github.com/huangjiadidi/DeepFakeMnist](https://github.com/huangjiadidi/DeepFakeMnist)**
