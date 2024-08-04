@@ -49,6 +49,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**|Xiangyu Fan et.al.|[2408.00762](http://arxiv.org/abs/2408.00762)|null|
+|**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
+|**2024-08-01**|**EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**|Qianyun He et.al.|[2408.00297](http://arxiv.org/abs/2408.00297)|null|
 |**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428](http://arxiv.org/abs/2407.21428)|null|
 |**2024-07-26**|**LinguaLinker: Audio-Driven Portraits Animation with Implicit Facial Control Enhancement**|Rui Zhang et.al.|[2407.18595](http://arxiv.org/abs/2407.18595)|null|
 |**2024-07-24**|**A Comprehensive Review and Taxonomy of Audio-Visual Synchronization Techniques for Realistic Speech Animation**|Jose Geraldo Fernandes et.al.|[2407.17430](http://arxiv.org/abs/2407.17430)|null|
