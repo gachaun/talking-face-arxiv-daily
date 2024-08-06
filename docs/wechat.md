@@ -287,12 +287,14 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-11-02, **LaughTalk: Expressive 3D Talking Head Generation with Laughter**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2311.00994](http://arxiv.org/abs/2311.00994)
 - 2020-11-06, **Large-scale multilingual audio visual dubbing**, Yi Yang et.al., Paper: [http://arxiv.org/abs/2011.03530](http://arxiv.org/abs/2011.03530)
 - 2016-07-11, **Large-Scale MIMO is Capable of Eliminating Power-Thirsty Channel Coding for Wireless Transmission of HEVC/H.265 Video**, Shaoshi Yang et.al., Paper: [http://arxiv.org/abs/1601.06684](http://arxiv.org/abs/1601.06684)
+- 2024-08-03, **Landmark-guided Diffusion Model for High-fidelity and Temporally Coherent Talking Head Generation**, Jintao Tan et.al., Paper: [http://arxiv.org/abs/2408.01732](http://arxiv.org/abs/2408.01732)
 - 2023-05-17, **LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**, Kwangho Lee et.al., Paper: [http://arxiv.org/abs/2305.10456](http://arxiv.org/abs/2305.10456)
 - 2021-04-07, **LI-Net: Large-Pose Identity-Preserving Face Reenactment Network**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2104.02850](http://arxiv.org/abs/2104.02850)
 - 2021-08-23, **KoDF: A Large-scale Korean DeepFake Detection Dataset**, Patrick Kwon et.al., Paper: [http://arxiv.org/abs/2103.10094](http://arxiv.org/abs/2103.10094)
 - 2017-07-30, **Kernel Projection of Latent Structures Regression for Facial Animation Retargeting**, Christos Ouzounis et.al., Paper: [http://arxiv.org/abs/1707.09629](http://arxiv.org/abs/1707.09629)
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2021-12-07, **Joint Audio-Text Model for Expressive Speech-Driven 3D Facial Animation**, Yingruo Fan et.al., Paper: [http://arxiv.org/abs/2112.02214](http://arxiv.org/abs/2112.02214)
+- 2024-08-03, **JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model**, Farzaneh Jafari et.al., Paper: [http://arxiv.org/abs/2408.01627](http://arxiv.org/abs/2408.01627)
 - 2021-10-22, **Invertible Frowns: Video-to-Video Facial Emotion Translation**, Ian Magnusson et.al., Paper: [http://arxiv.org/abs/2109.08061](http://arxiv.org/abs/2109.08061)
 - 2020-10-12, **Intuitive Facial Animation Editing Based On A Generative RNN Framework**, Eloïse Berson et.al., Paper: [http://arxiv.org/abs/2010.05655](http://arxiv.org/abs/2010.05655)
 - 2023-07-05, **Interactive Conversational Head Generation**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2307.02090](http://arxiv.org/abs/2307.02090)
@@ -341,6 +343,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-04-29, **GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting**, Bo Chen et.al., Paper: [http://arxiv.org/abs/2404.19040](http://arxiv.org/abs/2404.19040)
 - 2024-03-28, **GOTCHA: Real-Time Video Deepfake Detection via Challenge-Response**, Govind Mittal et.al., Paper: [http://arxiv.org/abs/2210.06186](http://arxiv.org/abs/2210.06186), Code: **[https://github.com/mittalgovind/GOTCHA-Deepfakes](https://github.com/mittalgovind/GOTCHA-Deepfakes)**
 - 2023-12-12, **GMTalker: Gaussian Mixture based Emotional talking video Portraits**, Yibo Xia et.al., Paper: [http://arxiv.org/abs/2312.07669](http://arxiv.org/abs/2312.07669)
+- 2024-08-03, **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.01826](http://arxiv.org/abs/2408.01826)
 - 2018-08-28, **GANimation: Anatomically-aware Facial Animation from a Single Image**, Albert Pumarola et.al., Paper: [http://arxiv.org/abs/1807.09251](http://arxiv.org/abs/1807.09251), Code: **[https://github.com/albertpumarola/GANimation](https://github.com/albertpumarola/GANimation)**
 - 2024-03-14, **GAIA: Zero-shot Talking Avatar Generation**, Tianyu He et.al., Paper: [http://arxiv.org/abs/2311.15230](http://arxiv.org/abs/2311.15230)
 - 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
