@@ -177,6 +177,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-10-19, **Real-Time Lip Sync for Live 2D Animation**, Deepali Aneja et.al., Paper: [http://arxiv.org/abs/1910.08685](http://arxiv.org/abs/1910.08685), Code: **[https://github.com/deepalianeja/CharacterLipSync2D](https://github.com/deepalianeja/CharacterLipSync2D)**
 - 2020-08-04, **Real-Time Cleaning and Refinement of Facial Animation Signals**, Eloïse Berson et.al., Paper: [http://arxiv.org/abs/2008.01332](http://arxiv.org/abs/2008.01332)
 - 2024-07-12, **Real Face Video Animation Platform**, Xiaokai Chen et.al., Paper: [http://arxiv.org/abs/2407.18955](http://arxiv.org/abs/2407.18955)
+- 2024-08-06, **ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2408.03284](http://arxiv.org/abs/2408.03284)
 - 2010-03-01, **Re-verification of a Lip Synchronization Protocol using Robust Reachability**, Piotr Kordy et.al., Paper: [http://arxiv.org/abs/1003.0431](http://arxiv.org/abs/1003.0431)
 - 2024-06-18, **RITA: A Real-time Interactive Talking Avatars Framework**, Wuxinlin Cheng et.al., Paper: [http://arxiv.org/abs/2406.13093](http://arxiv.org/abs/2406.13093)
 - 2023-11-06, **RADIO: Reference-Agnostic Dubbing Video Synthesis**, Dongyeun Lee et.al., Paper: [http://arxiv.org/abs/2309.01950](http://arxiv.org/abs/2309.01950)
