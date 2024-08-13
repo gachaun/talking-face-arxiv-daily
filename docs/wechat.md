@@ -129,6 +129,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-02-21, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636](http://arxiv.org/abs/2402.12636)
 - 2023-05-01, **StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**, Lizhen Wang et.al., Paper: [http://arxiv.org/abs/2305.00942](http://arxiv.org/abs/2305.00942), Code: **[https://github.com/lizhenwangt/styleavatar](https://github.com/lizhenwangt/styleavatar)**
 - 2024-03-12, **Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06365](http://arxiv.org/abs/2403.06365)
+- 2024-08-10, **Style-Preserving Lip Sync via Audio-Aware Style Reference**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2408.05412](http://arxiv.org/abs/2408.05412)
 - 2023-03-22, **Style Transfer for 2D Talking Head Animation**, Trong-Thang Pham et.al., Paper: [http://arxiv.org/abs/2303.09799](http://arxiv.org/abs/2303.09799), Code: **[https://github.com/aioz-ai/audiodrivenstyletransfer](https://github.com/aioz-ai/audiodrivenstyletransfer)**
 - 2023-12-11, **Study of Non-Verbal Behavior in Conversational Agents**, Camila Vicari Maccari et.al., Paper: [http://arxiv.org/abs/2312.06530](http://arxiv.org/abs/2312.06530)
 - 2021-10-07, **Streaming Transformer Transducer Based Speech Recognition Using Non-Causal Convolution**, Yangyang Shi et.al., Paper: [http://arxiv.org/abs/2110.05241](http://arxiv.org/abs/2110.05241)
@@ -318,6 +319,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2020-01-17, **ICface: Interpretable and Controllable Face Reenactment Using GANs**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/1904.01909](http://arxiv.org/abs/1904.01909)
 - 2023-07-20, **HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2307.10797](http://arxiv.org/abs/2307.10797), Code: **[https://github.com/stelabou/hyperreenact](https://github.com/stelabou/hyperreenact)**
 - 2023-10-15, **HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**, Yaosen Chen et.al., Paper: [http://arxiv.org/abs/2310.05720](http://arxiv.org/abs/2310.05720), Code: **[https://github.com/semchan/HyperLips](https://github.com/semchan/HyperLips)**
+- 2024-08-10, **High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2408.05416](http://arxiv.org/abs/2408.05416)
 - 2023-05-31, **High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02572](http://arxiv.org/abs/2305.02572)
 - 2023-03-04, **High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors**, Yunpeng Bai et.al., Paper: [http://arxiv.org/abs/2211.15064](http://arxiv.org/abs/2211.15064)
 - 2023-11-02, **High-Fidelity and Freely Controllable Talking Head Video Generation**, Yue Gao et.al., Paper: [http://arxiv.org/abs/2304.10168](http://arxiv.org/abs/2304.10168)
@@ -460,6 +462,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2020-07-20, **Deformable Style Transfer**, Sunnie S. Y. Kim et.al., Paper: [http://arxiv.org/abs/2003.11038](http://arxiv.org/abs/2003.11038), Code: **[https://github.com/sunniesuhyoung/DST](https://github.com/sunniesuhyoung/DST)**
 - 2024-07-31, **Deformable 3D Shape Diffusion Model**, Dengsheng Chen et.al., Paper: [http://arxiv.org/abs/2407.21428](http://arxiv.org/abs/2407.21428)
 - 2024-04-09, **Deepfake Generation and Detection: A Benchmark and Survey**, Gan Pei et.al., Paper: [http://arxiv.org/abs/2403.17881](http://arxiv.org/abs/2403.17881), Code: **[https://github.com/flyingby/awesome-deepfake-generation-and-detection](https://github.com/flyingby/awesome-deepfake-generation-and-detection)**
+- 2024-08-09, **DeepSpeak Dataset v1.0**, Sarah Barrington et.al., Paper: [http://arxiv.org/abs/2408.05366](http://arxiv.org/abs/2408.05366)
 - 2018-12-20, **DeepFakes: a New Threat to Face Recognition? Assessment and Detection**, Pavel Korshunov et.al., Paper: [http://arxiv.org/abs/1812.08685](http://arxiv.org/abs/1812.08685)
 - 2021-08-18, **DeepFake MNIST+: A DeepFake Facial Animation Dataset**, Jiajun Huang et.al., Paper: [http://arxiv.org/abs/2108.07949](http://arxiv.org/abs/2108.07949), Code: **[https://github.com/huangjiadidi/DeepFakeMnist](https://github.com/huangjiadidi/DeepFakeMnist)**
 - 2023-02-27, **Deep Visual Forced Alignment: Learning to Align Transcription with Talking Face Video**, Minsu Kim et.al., Paper: [http://arxiv.org/abs/2303.08670](http://arxiv.org/abs/2303.08670)
@@ -480,6 +483,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-06-19, **DF40: Toward Next-Generation Deepfake Detection**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2406.13495](http://arxiv.org/abs/2406.13495)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
+- 2024-08-12, **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**, Jisoo Kim et.al., Paper: [http://arxiv.org/abs/2408.06010](http://arxiv.org/abs/2408.06010)
 - 2024-03-01, **DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**, Chenpeng Du et.al., Paper: [http://arxiv.org/abs/2303.17550](http://arxiv.org/abs/2303.17550)
 - 2023-03-05, **Cyber Vaccine for Deepfake Immunity**, Ching-Chun Chang et.al., Paper: [http://arxiv.org/abs/2303.02659](http://arxiv.org/abs/2303.02659)
 - 2022-06-29, **Cut Inner Layers: A Structured Pruning Strategy for Efficient U-Net GANs**, Bo-Kyeong Kim et.al., Paper: [http://arxiv.org/abs/2206.14658](http://arxiv.org/abs/2206.14658)

@@ -53,6 +53,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**|Jisoo Kim et.al.|[2408.06010](http://arxiv.org/abs/2408.06010)|null|
+|**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
+|**2024-08-10**|**Style-Preserving Lip Sync via Audio-Aware Style Reference**|Weizhi Zhong et.al.|[2408.05412](http://arxiv.org/abs/2408.05412)|null|
+|**2024-08-09**|**DeepSpeak Dataset v1.0**|Sarah Barrington et.al.|[2408.05366](http://arxiv.org/abs/2408.05366)|null|
 |**2024-08-06**|**ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer**|Jiazhi Guan et.al.|[2408.03284](http://arxiv.org/abs/2408.03284)|null|
 |**2024-08-03**|**GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer**|Yihong Lin et.al.|[2408.01826](http://arxiv.org/abs/2408.01826)|null|
 |**2024-08-03**|**Landmark-guided Diffusion Model for High-fidelity and Temporally Coherent Talking Head Generation**|Jintao Tan et.al.|[2408.01732](http://arxiv.org/abs/2408.01732)|null|
