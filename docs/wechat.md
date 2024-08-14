@@ -493,6 +493,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-11-28, **Continuously Controllable Facial Expression Editing in Talking Face Videos**, Zhiyao Sun et.al., Paper: [http://arxiv.org/abs/2209.08289](http://arxiv.org/abs/2209.08289)
 - 2024-02-28, **Context-aware Talking Face Video Generation**, Meidai Xuanyuan et.al., Paper: [http://arxiv.org/abs/2402.18092](http://arxiv.org/abs/2402.18092)
 - 2023-09-20, **Context-Aware Talking-Head Video Editing**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2308.00462](http://arxiv.org/abs/2308.00462)
+- 2024-08-13, **Content and Style Aware Audio-Driven Facial Animation**, Qingju Liu et.al., Paper: [http://arxiv.org/abs/2408.07005](http://arxiv.org/abs/2408.07005)
 - 2022-10-07, **Compressing Video Calls using Synthetic Talking Heads**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.03692](http://arxiv.org/abs/2210.03692)
 - 2024-07-04, **Compressed Skinning for Facial Blendshapes**, Ladislav Kavan et.al., Paper: [http://arxiv.org/abs/2406.11597](http://arxiv.org/abs/2406.11597)
 - 2023-04-03, **CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2301.02379](http://arxiv.org/abs/2301.02379), Code: **[https://github.com/Doubiiu/CodeTalker](https://github.com/Doubiiu/CodeTalker)**

@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005](http://arxiv.org/abs/2408.07005)|null|
 |**2024-08-12**|**DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**|Jisoo Kim et.al.|[2408.06010](http://arxiv.org/abs/2408.06010)|null|
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-10**|**Style-Preserving Lip Sync via Audio-Aware Style Reference**|Weizhi Zhong et.al.|[2408.05412](http://arxiv.org/abs/2408.05412)|null|
