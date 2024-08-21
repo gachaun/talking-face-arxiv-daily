@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|null|
 |**2024-08-18**|**FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model**|Ziyu Yao et.al.|[2408.09384](http://arxiv.org/abs/2408.09384)|null|
 |**2024-08-18**|**Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation**|Xukun Zhou et.al.|[2408.09357](http://arxiv.org/abs/2408.09357)|null|
 |**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347](http://arxiv.org/abs/2408.09347)|null|

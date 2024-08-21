@@ -486,6 +486,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-06-19, **DF40: Toward Next-Generation Deepfake Detection**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2406.13495](http://arxiv.org/abs/2406.13495)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
+- 2024-08-20, **DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**, Zhijing Shao et.al., Paper: [http://arxiv.org/abs/2408.10588](http://arxiv.org/abs/2408.10588)
 - 2024-08-12, **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**, Jisoo Kim et.al., Paper: [http://arxiv.org/abs/2408.06010](http://arxiv.org/abs/2408.06010)
 - 2024-03-01, **DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**, Chenpeng Du et.al., Paper: [http://arxiv.org/abs/2303.17550](http://arxiv.org/abs/2303.17550)
 - 2023-03-05, **Cyber Vaccine for Deepfake Immunity**, Ching-Chun Chang et.al., Paper: [http://arxiv.org/abs/2303.02659](http://arxiv.org/abs/2303.02659)
