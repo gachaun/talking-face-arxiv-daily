@@ -422,6 +422,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-25, **EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2303.11089](http://arxiv.org/abs/2303.11089), Code: **[https://github.com/psyai-net/EmoTalk_release](https://github.com/psyai-net/EmoTalk_release)**
 - 2024-08-01, **EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**, Qianyun He et.al., Paper: [http://arxiv.org/abs/2408.00297](http://arxiv.org/abs/2408.00297)
 - 2024-02-02, **EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2402.01422](http://arxiv.org/abs/2402.01422)
+- 2024-08-21, **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.11518](http://arxiv.org/abs/2408.11518)
 - 2024-07-17, **EmoFace: Audio-driven Emotional 3D Face Animation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2407.12501](http://arxiv.org/abs/2407.12501), Code: **[https://github.com/sjtu-lucy/emoface](https://github.com/sjtu-lucy/emoface)**
 - 2019-10-09, **EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos**, Haipeng Zeng et.al., Paper: [http://arxiv.org/abs/1907.12918](http://arxiv.org/abs/1907.12918)
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
@@ -517,6 +518,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-04-17, **Autoregressive GAN for Semantic Unconditional Head Motion Generation**, Louis Airale et.al., Paper: [http://arxiv.org/abs/2211.00987](http://arxiv.org/abs/2211.00987), Code: **[https://github.com/louisbearing/unconditionalheadmotion](https://github.com/louisbearing/unconditionalheadmotion)**
 - 2016-02-08, **Automatic Face Reenactment**, Pablo Garrido et.al., Paper: [http://arxiv.org/abs/1602.02651](http://arxiv.org/abs/1602.02651)
 - 2022-09-19, **AutoLV: Automatic Lecture Video Generator**, Wenbin Wang et.al., Paper: [http://arxiv.org/abs/2209.08795](http://arxiv.org/abs/2209.08795)
+- 2024-08-21, **AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition**, Minheng Ni et.al., Paper: [http://arxiv.org/abs/2408.11564](http://arxiv.org/abs/2408.11564)
 - 2021-08-30, **Audiovisual Speech Synthesis using Tacotron2**, Ahmed Hussen Abdelaziz et.al., Paper: [http://arxiv.org/abs/2008.00620](http://arxiv.org/abs/2008.00620)
 - 2021-02-18, **AudioVisual Speech Synthesis: A brief literature review**, Efthymios Georgiou et.al., Paper: [http://arxiv.org/abs/2103.03927](http://arxiv.org/abs/2103.03927)
 - 2023-04-25, **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**, Rongjie Huang et.al., Paper: [http://arxiv.org/abs/2304.12995](http://arxiv.org/abs/2304.12995), Code: **[https://github.com/aigc-audio/audiogpt](https://github.com/aigc-audio/audiogpt)**
