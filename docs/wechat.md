@@ -352,6 +352,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2018-08-28, **GANimation: Anatomically-aware Facial Animation from a Single Image**, Albert Pumarola et.al., Paper: [http://arxiv.org/abs/1807.09251](http://arxiv.org/abs/1807.09251), Code: **[https://github.com/albertpumarola/GANimation](https://github.com/albertpumarola/GANimation)**
 - 2024-03-14, **GAIA: Zero-shot Talking Avatar Generation**, Tianyu He et.al., Paper: [http://arxiv.org/abs/2311.15230](http://arxiv.org/abs/2311.15230)
 - 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
+- 2024-08-23, **G3FA: Geometry-guided GAN for Face Animation**, Alireza Javanmardi et.al., Paper: [http://arxiv.org/abs/2408.13049](http://arxiv.org/abs/2408.13049)
 - 2023-08-30, **From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**, Shreyank N Gowda et.al., Paper: [http://arxiv.org/abs/2308.16041](http://arxiv.org/abs/2308.16041)
 - 2024-01-07, **Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2401.03476](http://arxiv.org/abs/2401.03476)
 - 2022-08-03, **Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control**, Michail Christos Doukas et.al., Paper: [http://arxiv.org/abs/2208.02210](http://arxiv.org/abs/2208.02210)
