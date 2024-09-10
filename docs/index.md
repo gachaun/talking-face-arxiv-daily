@@ -49,6 +49,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**PersonaTalk: Bring Attention to Your Persona in Visual Dubbing**|Longhao Zhang et.al.|[2409.05379](http://arxiv.org/abs/2409.05379)|null|
+|**2024-09-09**|**KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation**|Hoang-Son Vo-Thanh et.al.|[2409.05330](http://arxiv.org/abs/2409.05330)|**[link](https://github.com/sowwnn/KFusion-Dual-Domain-for-Speech-to-Landmarks)**|
 |**2024-09-05**|**SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing**|Lingyu Xiong et.al.|[2409.03605](http://arxiv.org/abs/2409.03605)|null|
 |**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270](http://arxiv.org/abs/2409.03270)|null|
 |**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657](http://arxiv.org/abs/2409.02657)|null|
