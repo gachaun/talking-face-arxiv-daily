@@ -123,6 +123,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-26, **Superior and Pragmatic Talking Face Generation with Teacher-Student Framework**, Chao Liang et.al., Paper: [http://arxiv.org/abs/2403.17883](http://arxiv.org/abs/2403.17883)
 - 2024-03-15, **StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation**, Dongchan Min et.al., Paper: [http://arxiv.org/abs/2208.10922](http://arxiv.org/abs/2208.10922)
 - 2023-06-10, **StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2301.01081](http://arxiv.org/abs/2301.01081), Code: **[https://github.com/fuxivirtualhuman/styletalk](https://github.com/fuxivirtualhuman/styletalk)**
+- 2024-09-14, **StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads**, Suzhen Wang et.al., Paper: [http://arxiv.org/abs/2409.09292](http://arxiv.org/abs/2409.09292)
 - 2023-05-09, **StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2305.05445](http://arxiv.org/abs/2305.05445)
 - 2022-09-27, **StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2209.13375](http://arxiv.org/abs/2209.13375), Code: **[https://github.com/stelabou/stylemask](https://github.com/stelabou/stylemask)**
 - 2024-02-12, **StyleLipSync: Style-based Personalized Lip-sync Video Generation**, Taekyung Ki et.al., Paper: [http://arxiv.org/abs/2305.00521](http://arxiv.org/abs/2305.00521)
@@ -456,6 +457,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-11-13, **DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**, Guinan Su et.al., Paper: [http://arxiv.org/abs/2311.04766](http://arxiv.org/abs/2311.04766)
 - 2020-09-12, **DualLip: A System for Joint Lip Reading and Generation**, Weicong Chen et.al., Paper: [http://arxiv.org/abs/2009.05784](http://arxiv.org/abs/2009.05784)
 - 2023-12-15, **DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2312.09767](http://arxiv.org/abs/2312.09767)
+- 2024-09-16, **DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2409.10281](http://arxiv.org/abs/2409.10281)
 - 2023-04-01, **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et.al., Paper: [http://arxiv.org/abs/2304.03117](http://arxiv.org/abs/2304.03117)
 - 2023-03-26, **Distributed Solution of the Inverse Rig Problem in Blendshape Facial Animation**, Stevo Racković et.al., Paper: [http://arxiv.org/abs/2303.06370](http://arxiv.org/abs/2303.06370)
 - 2019-12-20, **Disentangling Style and Content in Anime Illustrations**, Sitao Xiang et.al., Paper: [http://arxiv.org/abs/1905.10742](http://arxiv.org/abs/1905.10742)

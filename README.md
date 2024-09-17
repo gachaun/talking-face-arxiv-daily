@@ -53,6 +53,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
+|**2024-09-14**|**StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads**|Suzhen Wang et.al.|[2409.09292](http://arxiv.org/abs/2409.09292)|null|
 |**2024-09-12**|**ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**|Sichun Wu et.al.|[2409.07966](http://arxiv.org/abs/2409.07966)|**[link](https://github.com/uuembodiedsocialai/probtalk3d)**|
 |**2024-09-11**|**DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**|Steven Hogue et.al.|[2409.07649](http://arxiv.org/abs/2409.07649)|null|
 |**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
