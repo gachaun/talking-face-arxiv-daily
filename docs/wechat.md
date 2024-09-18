@@ -602,6 +602,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-11, **A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos**, Weixia Zhang et.al., Paper: [http://arxiv.org/abs/2403.06421](http://arxiv.org/abs/2403.06421), Code: **[https://github.com/zwx8981/adth-qa](https://github.com/zwx8981/adth-qa)**
 - 2023-04-06, **4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**, Wei Chen et.al., Paper: [http://arxiv.org/abs/2304.02814](http://arxiv.org/abs/2304.02814)
 - 2023-12-01, **3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing**, Balamurugan Thambiraja et.al., Paper: [http://arxiv.org/abs/2312.00870](http://arxiv.org/abs/2312.00870)
+- 2024-09-17, **3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**, Xuanmeng Sha et.al., Paper: [http://arxiv.org/abs/2409.10848](http://arxiv.org/abs/2409.10848)
 - 2021-04-25, **3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head**, Qianyun Wang et.al., Paper: [http://arxiv.org/abs/2104.12051](http://arxiv.org/abs/2104.12051)
 - 2023-11-05, **3D-Aware Talking-Head Video Motion Transfer**, Haomiao Ni et.al., Paper: [http://arxiv.org/abs/2311.02549](http://arxiv.org/abs/2311.02549)
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
