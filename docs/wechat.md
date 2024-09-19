@@ -310,6 +310,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2021-12-07, **Joint Audio-Text Model for Expressive Speech-Driven 3D Facial Animation**, Yingruo Fan et.al., Paper: [http://arxiv.org/abs/2112.02214](http://arxiv.org/abs/2112.02214)
 - 2024-08-03, **JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model**, Farzaneh Jafari et.al., Paper: [http://arxiv.org/abs/2408.01627](http://arxiv.org/abs/2408.01627)
+- 2024-09-18, **JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**, Sai Tanmay Reddy Chakkera et.al., Paper: [http://arxiv.org/abs/2409.12156](http://arxiv.org/abs/2409.12156)
 - 2021-10-22, **Invertible Frowns: Video-to-Video Facial Emotion Translation**, Ian Magnusson et.al., Paper: [http://arxiv.org/abs/2109.08061](http://arxiv.org/abs/2109.08061)
 - 2020-10-12, **Intuitive Facial Animation Editing Based On A Generative RNN Framework**, Eloïse Berson et.al., Paper: [http://arxiv.org/abs/2010.05655](http://arxiv.org/abs/2010.05655)
 - 2023-07-05, **Interactive Conversational Head Generation**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2307.02090](http://arxiv.org/abs/2307.02090)
@@ -353,6 +354,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-10-19, **Gemino: Practical and Robust Neural Compression for Video Conferencing**, Vibhaalakshmi Sivaraman et.al., Paper: [http://arxiv.org/abs/2209.10507](http://arxiv.org/abs/2209.10507)
 - 2024-04-28, **GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**, Hongyun Yu et.al., Paper: [http://arxiv.org/abs/2404.14037](http://arxiv.org/abs/2404.14037)
 - 2024-04-25, **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting**, Kyusun Cho et.al., Paper: [http://arxiv.org/abs/2404.16012](http://arxiv.org/abs/2404.16012), Code: **[https://github.com/ku-cvlab/gaussiantalker](https://github.com/ku-cvlab/gaussiantalker)**
+- 2024-09-18, **GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**, Kartik Teotia et.al., Paper: [http://arxiv.org/abs/2409.11951](http://arxiv.org/abs/2409.11951)
 - 2023-12-19, **Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing**, Yushi Lan et.al., Paper: [http://arxiv.org/abs/2312.03763](http://arxiv.org/abs/2312.03763)
 - 2016-10-28, **Galaxy gas as obscurer: II. Separating the galaxy-scale and nuclear obscurers of Active Galactic Nuclei**, Johannes Buchner et.al., Paper: [http://arxiv.org/abs/1610.09380](http://arxiv.org/abs/1610.09380), Code: **[https://github.com/JohannesBuchner/LightRayRider](https://github.com/JohannesBuchner/LightRayRider)**
 - 2023-12-12, **GSmoothFace: Generalized Smooth Talking Face Generation via Fine Grained 3D Face Guidance**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2312.07385](http://arxiv.org/abs/2312.07385)

@@ -53,6 +53,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
+|**2024-09-18**|**GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**|Kartik Teotia et.al.|[2409.11951](http://arxiv.org/abs/2409.11951)|null|
 |**2024-09-17**|**3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**|Xuanmeng Sha et.al.|[2409.10848](http://arxiv.org/abs/2409.10848)|null|
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-14**|**StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads**|Suzhen Wang et.al.|[2409.09292](http://arxiv.org/abs/2409.09292)|null|
