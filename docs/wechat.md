@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.09.25
+> Updated on 2024.09.26
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -191,7 +191,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-20, **Prosodic Phrase Alignment for Machine Dubbing**, Alp Öktem et.al., Paper: [http://arxiv.org/abs/1908.07226](http://arxiv.org/abs/1908.07226), Code: **[https://github.com/alpoktem/MachineDub](https://github.com/alpoktem/MachineDub)**
 - 2022-11-26, **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang et.al., Paper: [http://arxiv.org/abs/2211.14506](http://arxiv.org/abs/2211.14506), Code: **[https://github.com/Dorniwang/PD-FGC-inference](https://github.com/Dorniwang/PD-FGC-inference)**
 - 2012-01-19, **Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**, Ingmar Steiner et.al., Paper: [http://arxiv.org/abs/1201.4080](http://arxiv.org/abs/1201.4080)
-- 2024-09-12, **ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**, Sichun Wu et.al., Paper: [http://arxiv.org/abs/2409.07966](http://arxiv.org/abs/2409.07966), Code: **[https://github.com/uuembodiedsocialai/probtalk3d](https://github.com/uuembodiedsocialai/probtalk3d)**
+- 2024-09-25, **ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**, Sichun Wu et.al., Paper: [http://arxiv.org/abs/2409.07966](http://arxiv.org/abs/2409.07966), Code: **[https://github.com/uuembodiedsocialai/probtalk3d](https://github.com/uuembodiedsocialai/probtalk3d)**
 - 2023-07-09, **Predictive Coding For Animation-Based Video Compression**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2307.04187](http://arxiv.org/abs/2307.04187)
 - 2022-10-13, **Pre-Avatar: An Automatic Presentation Generation Framework Leveraging Talking Avatar**, Aolan Sun et.al., Paper: [http://arxiv.org/abs/2210.06877](http://arxiv.org/abs/2210.06877)
 - 2024-09-04, **PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**, Jun Ling et.al., Paper: [http://arxiv.org/abs/2409.02657](http://arxiv.org/abs/2409.02657)
@@ -610,7 +610,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Image Animation
 
@@ -681,7 +681,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 Notes: 
 
