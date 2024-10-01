@@ -49,6 +49,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Learning Frame-Wise Emotion Intensity for Audio-Driven Talking-Head Generation**|Jingyi Xu et.al.|[2409.19501](http://arxiv.org/abs/2409.19501)|null|
+|**2024-09-27**|**Diverse Code Query Learning for Speech-Driven Facial Animation**|Chunzhi Gu et.al.|[2409.19143](http://arxiv.org/abs/2409.19143)|null|
 |**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083](http://arxiv.org/abs/2409.18083)|null|
 |**2024-09-25**|**ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**|Sichun Wu et.al.|[2409.07966](http://arxiv.org/abs/2409.07966)|**[link](https://github.com/uuembodiedsocialai/probtalk3d)**|
 |**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
@@ -614,6 +616,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
+|**2024-09-29**|**High Quality Human Image Animation using Regional Supervision and Motion Blur Condition**|Zhongcong Xu et.al.|[2409.19580](http://arxiv.org/abs/2409.19580)|null|
 |**2024-09-22**|**Dormant: Defending against Pose-driven Human Image Animation**|Jiachen Zhou et.al.|[2409.14424](http://arxiv.org/abs/2409.14424)|null|
 |**2024-07-28**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
 |**2024-07-23**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642](http://arxiv.org/abs/2407.15642)|**[link](https://github.com/maxin-cn/Cinemo)**|
