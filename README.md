@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model**|Feng Qiu et.al.|[2409.13180](http://arxiv.org/abs/2409.13180)|null|
 |**2024-10-01**|**LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**|Jian Yang et.al.|[2410.00990](http://arxiv.org/abs/2410.00990)|null|
 |**2024-09-29**|**Learning Frame-Wise Emotion Intensity for Audio-Driven Talking-Head Generation**|Jingyi Xu et.al.|[2409.19501](http://arxiv.org/abs/2409.19501)|null|
@@ -60,6 +61,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083](http://arxiv.org/abs/2409.18083)|null|
 |**2024-09-25**|**ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**|Sichun Wu et.al.|[2409.07966](http://arxiv.org/abs/2409.07966)|**[link](https://github.com/uuembodiedsocialai/probtalk3d)**|
 |**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
+|**2024-09-23**|**FaceVid-1K: A Large-Scale High-Quality Multiracial Human Face Video Dataset**|Donglin Di et.al.|[2410.07151](http://arxiv.org/abs/2410.07151)|null|
 |**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
 |**2024-09-18**|**GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**|Kartik Teotia et.al.|[2409.11951](http://arxiv.org/abs/2409.11951)|null|
