@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**|Sijing Wu et.al.|[2410.07757](http://arxiv.org/abs/2410.07757)|null|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model**|Feng Qiu et.al.|[2409.13180](http://arxiv.org/abs/2409.13180)|null|
 |**2024-10-01**|**LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**|Jian Yang et.al.|[2410.00990](http://arxiv.org/abs/2410.00990)|null|
@@ -625,6 +626,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718](http://arxiv.org/abs/2410.07718)|null|
 |**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
 |**2024-09-29**|**High Quality Human Image Animation using Regional Supervision and Motion Blur Condition**|Zhongcong Xu et.al.|[2409.19580](http://arxiv.org/abs/2409.19580)|null|
 |**2024-09-22**|**Dormant: Defending against Pose-driven Human Image Animation**|Jiachen Zhou et.al.|[2409.14424](http://arxiv.org/abs/2409.14424)|**[link](https://github.com/Manu21JC/Dormant)**|
