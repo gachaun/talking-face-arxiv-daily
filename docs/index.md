@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.10.16
+### Automatically Updated on 2024.10.17
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -49,13 +49,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**|Yue Zhang et.al.|[2410.10122](http://arxiv.org/abs/2410.10122)|**[link](https://github.com/tmelyralab/musetalk)**|
 |**2024-10-15**|**Titanic Calling: Low Bandwidth Video Conference from the Titanic Wreck**|Fevziye Irem Eyiokur et.al.|[2410.11434](http://arxiv.org/abs/2410.11434)|null|
 |**2024-10-15**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-14**|**Character-aware audio-visual subtitling in context**|Jaesung Huh et.al.|[2410.11068](http://arxiv.org/abs/2410.11068)|null|
 |**2024-10-14**|**Beyond Fixed Topologies: Unregistered Training and Comprehensive Evaluation Metrics for 3D Talking Heads**|Federico Nocentini et.al.|[2410.11041](http://arxiv.org/abs/2410.11041)|null|
 |**2024-10-14**|**TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**|Jiazhi Guan et.al.|[2410.10696](http://arxiv.org/abs/2410.10696)|null|
 |**2024-10-14**|**Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**|Shanzhi Yin et.al.|[2410.10171](http://arxiv.org/abs/2410.10171)|null|
-|**2024-10-14**|**MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**|Yue Zhang et.al.|[2410.10122](http://arxiv.org/abs/2410.10122)|**[link](https://github.com/tmelyralab/musetalk)**|
 |**2024-10-10**|**MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**|Sijing Wu et.al.|[2410.07757](http://arxiv.org/abs/2410.07757)|null|
 |**2024-10-09**|**FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model**|Feng Qiu et.al.|[2409.13180](http://arxiv.org/abs/2409.13180)|null|
 |**2024-10-01**|**LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**|Jian Yang et.al.|[2410.00990](http://arxiv.org/abs/2410.00990)|null|

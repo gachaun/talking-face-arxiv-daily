@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.10.16
+> Updated on 2024.10.17
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -242,7 +242,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-06-17, **NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**, Niu Guanchen et.al., Paper: [http://arxiv.org/abs/2406.11259](http://arxiv.org/abs/2406.11259)
 - 2022-07-20, **NARRATE: A Normal Assisted Free-View Portrait Stylizer**, Youjia Wang et.al., Paper: [http://arxiv.org/abs/2207.00974](http://arxiv.org/abs/2207.00974)
 - 2023-12-05, **MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**, Bo Ding et.al., Paper: [http://arxiv.org/abs/2312.02703](http://arxiv.org/abs/2312.02703)
-- 2024-10-14, **MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2410.10122](http://arxiv.org/abs/2410.10122), Code: **[https://github.com/tmelyralab/musetalk](https://github.com/tmelyralab/musetalk)**
+- 2024-10-16, **MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2410.10122](http://arxiv.org/abs/2410.10122), Code: **[https://github.com/tmelyralab/musetalk](https://github.com/tmelyralab/musetalk)**
 - 2024-05-31, **MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**, Saif Mahmud et.al., Paper: [http://arxiv.org/abs/2405.21004](http://arxiv.org/abs/2405.21004)
 - 2023-05-09, **Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02594](http://arxiv.org/abs/2305.02594)
 - 2017-07-21, **Multichannel Attention Network for Analyzing Visual Behavior in Public Speaking**, Rahul Sharma et.al., Paper: [http://arxiv.org/abs/1707.06830](http://arxiv.org/abs/1707.06830)
@@ -626,7 +626,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Image Animation
 
@@ -702,7 +702,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 Notes: 
 
