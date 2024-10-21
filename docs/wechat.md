@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.10.20
+> Updated on 2024.10.21
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -520,7 +520,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
 - 2024-08-20, **DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**, Zhijing Shao et.al., Paper: [http://arxiv.org/abs/2408.10588](http://arxiv.org/abs/2408.10588)
 - 2024-08-12, **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**, Jisoo Kim et.al., Paper: [http://arxiv.org/abs/2408.06010](http://arxiv.org/abs/2408.06010)
-- 2024-10-17, **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**, Hanbo Cheng et.al., Paper: [http://arxiv.org/abs/2410.13726](http://arxiv.org/abs/2410.13726), Code: **[https://github.com/hanbo-cheng/dawn-pytorch](https://github.com/hanbo-cheng/dawn-pytorch)**
+- 2024-10-18, **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**, Hanbo Cheng et.al., Paper: [http://arxiv.org/abs/2410.13726](http://arxiv.org/abs/2410.13726), Code: **[https://github.com/hanbo-cheng/dawn-pytorch](https://github.com/hanbo-cheng/dawn-pytorch)**
 - 2024-03-01, **DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**, Chenpeng Du et.al., Paper: [http://arxiv.org/abs/2303.17550](http://arxiv.org/abs/2303.17550)
 - 2023-03-05, **Cyber Vaccine for Deepfake Immunity**, Ching-Chun Chang et.al., Paper: [http://arxiv.org/abs/2303.02659](http://arxiv.org/abs/2303.02659)
 - 2022-06-29, **Cut Inner Layers: A Structured Pruning Strategy for Efficient U-Net GANs**, Bo-Kyeong Kim et.al., Paper: [http://arxiv.org/abs/2206.14658](http://arxiv.org/abs/2206.14658)
@@ -627,7 +627,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 ## Image Animation
 
@@ -703,7 +703,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 Notes: 
 
