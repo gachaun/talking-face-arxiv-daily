@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-18**|**Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization**|Bin Lin et.al.|[2410.14283](http://arxiv.org/abs/2410.14283)|null|
 |**2024-10-18**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726](http://arxiv.org/abs/2410.13726)|**[link](https://github.com/hanbo-cheng/dawn-pytorch)**|
 |**2024-10-16**|**MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**|Yue Zhang et.al.|[2410.10122](http://arxiv.org/abs/2410.10122)|**[link](https://github.com/tmelyralab/musetalk)**|
