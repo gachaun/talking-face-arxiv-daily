@@ -247,6 +247,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-10-16, **MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2410.10122](http://arxiv.org/abs/2410.10122), Code: **[https://github.com/tmelyralab/musetalk](https://github.com/tmelyralab/musetalk)**
 - 2024-05-31, **MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**, Saif Mahmud et.al., Paper: [http://arxiv.org/abs/2405.21004](http://arxiv.org/abs/2405.21004)
 - 2023-05-09, **Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02594](http://arxiv.org/abs/2305.02594)
+- 2024-10-29, **Multimodal Semantic Communication for Generative Audio-Driven Video Conferencing**, Haonan Tong et.al., Paper: [http://arxiv.org/abs/2410.22112](http://arxiv.org/abs/2410.22112)
 - 2017-07-21, **Multichannel Attention Network for Analyzing Visual Behavior in Public Speaking**, Rahul Sharma et.al., Paper: [http://arxiv.org/abs/1707.06830](http://arxiv.org/abs/1707.06830)
 - 2024-06-20, **MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2406.14272](http://arxiv.org/abs/2406.14272)
 - 2022-03-04, **Multi-modality Deep Restoration of Extremely Compressed Face Videos**, Xi Zhang et.al., Paper: [http://arxiv.org/abs/2107.05548](http://arxiv.org/abs/2107.05548)
