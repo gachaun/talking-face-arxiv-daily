@@ -312,6 +312,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-11-02, **LaughTalk: Expressive 3D Talking Head Generation with Laughter**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2311.00994](http://arxiv.org/abs/2311.00994)
 - 2020-11-06, **Large-scale multilingual audio visual dubbing**, Yi Yang et.al., Paper: [http://arxiv.org/abs/2011.03530](http://arxiv.org/abs/2011.03530)
 - 2016-07-11, **Large-Scale MIMO is Capable of Eliminating Power-Thirsty Channel Coding for Wireless Transmission of HEVC/H.265 Video**, Shaoshi Yang et.al., Paper: [http://arxiv.org/abs/1601.06684](http://arxiv.org/abs/1601.06684)
+- 2024-11-06, **Large Generative Model-assisted Talking-face Semantic Communication System**, Feibo Jiang et.al., Paper: [http://arxiv.org/abs/2411.03876](http://arxiv.org/abs/2411.03876)
 - 2024-08-03, **Landmark-guided Diffusion Model for High-fidelity and Temporally Coherent Talking Head Generation**, Jintao Tan et.al., Paper: [http://arxiv.org/abs/2408.01732](http://arxiv.org/abs/2408.01732)
 - 2024-10-01, **LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**, Jian Yang et.al., Paper: [http://arxiv.org/abs/2410.00990](http://arxiv.org/abs/2410.00990)
 - 2023-05-17, **LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**, Kwangho Lee et.al., Paper: [http://arxiv.org/abs/2305.10456](http://arxiv.org/abs/2305.10456)
