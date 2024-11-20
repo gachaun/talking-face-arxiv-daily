@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.11.19
+> Updated on 2024.11.20
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -323,7 +323,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-09-02, **KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**, Zhihao Xu et.al., Paper: [http://arxiv.org/abs/2409.01113](http://arxiv.org/abs/2409.01113), Code: **[https://github.com/ffxzh/kmtalk](https://github.com/ffxzh/kmtalk)**
 - 2024-09-09, **KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation**, Hoang-Son Vo-Thanh et.al., Paper: [http://arxiv.org/abs/2409.05330](http://arxiv.org/abs/2409.05330), Code: **[https://github.com/sowwnn/KFusion-Dual-Domain-for-Speech-to-Landmarks](https://github.com/sowwnn/KFusion-Dual-Domain-for-Speech-to-Landmarks)**
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
-- 2024-11-14, **JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**, Xuyang Cao et.al., Paper: [http://arxiv.org/abs/2411.09209](http://arxiv.org/abs/2411.09209), Code: **[https://github.com/jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA)**
+- 2024-11-19, **JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**, Xuyang Cao et.al., Paper: [http://arxiv.org/abs/2411.09209](http://arxiv.org/abs/2411.09209), Code: **[https://github.com/jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA)**
 - 2024-10-21, **Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**, Malte Prinzler et.al., Paper: [http://arxiv.org/abs/2410.16395](http://arxiv.org/abs/2410.16395)
 - 2021-12-07, **Joint Audio-Text Model for Expressive Speech-Driven 3D Facial Animation**, Yingruo Fan et.al., Paper: [http://arxiv.org/abs/2112.02214](http://arxiv.org/abs/2112.02214)
 - 2024-08-03, **JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model**, Farzaneh Jafari et.al., Paper: [http://arxiv.org/abs/2408.01627](http://arxiv.org/abs/2408.01627)
@@ -635,7 +635,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## Image Animation
 
@@ -671,7 +671,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-17, **Latent Image Animator: Learning to Animate Images via Latent Space Navigation**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2203.09043](http://arxiv.org/abs/2203.09043)
 - 2023-10-11, **LEO: Generative Latent Image Animator for Human Video Synthesis**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2305.03989](http://arxiv.org/abs/2305.03989), Code: **[https://github.com/wyhsirius/LEO](https://github.com/wyhsirius/LEO)**
 - 2023-10-16, **LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**, Ruiqi Wu et.al., Paper: [http://arxiv.org/abs/2310.10769](http://arxiv.org/abs/2310.10769), Code: **[https://github.com/RQ-Wu/LAMP](https://github.com/RQ-Wu/LAMP)**
-- 2024-11-14, **JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**, Xuyang Cao et.al., Paper: [http://arxiv.org/abs/2411.09209](http://arxiv.org/abs/2411.09209), Code: **[https://github.com/jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA)**
+- 2024-11-19, **JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**, Xuyang Cao et.al., Paper: [http://arxiv.org/abs/2411.09209](http://arxiv.org/abs/2411.09209), Code: **[https://github.com/jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA)**
 - 2022-07-08, **Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation**, Yucheng Suo et.al., Paper: [http://arxiv.org/abs/2207.03714](http://arxiv.org/abs/2207.03714)
 - 2021-10-26, **Incremental Learning for Animal Pose Estimation using RBF k-DPP**, Gaurav Kumar Nayak et.al., Paper: [http://arxiv.org/abs/2110.13598](http://arxiv.org/abs/2110.13598)
 - 2022-10-04, **Implicit Warping for Animation with Image Sets**, Arun Mallya et.al., Paper: [http://arxiv.org/abs/2210.01794](http://arxiv.org/abs/2210.01794)
@@ -714,7 +714,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 Notes: 
 
