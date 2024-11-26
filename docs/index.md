@@ -49,6 +49,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**|Xiaozhong Ji et.al.|[2411.16331](http://arxiv.org/abs/2411.16331)|null|
+|**2024-11-23**|**ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with Temporal Guidance**|Haijie Yang et.al.|[2411.15436](http://arxiv.org/abs/2411.15436)|null|
 |**2024-11-20**|**Comparative Analysis of Audio Feature Extraction for Real-Time Talking Portrait Synthesis**|Pegah Salehi et.al.|[2411.13209](http://arxiv.org/abs/2411.13209)|**[link](https://github.com/pegahs1993/whisper-afe-talkingheadsgen)**|
 |**2024-11-20**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
 |**2024-11-20**|**JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**|Xuyang Cao et.al.|[2411.09209](http://arxiv.org/abs/2411.09209)|**[link](https://github.com/jdh-algo/JoyVASA)**|
