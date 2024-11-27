@@ -51,6 +51,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-25**|**Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**|Xiaozhong Ji et.al.|[2411.16331](http://arxiv.org/abs/2411.16331)|null|
 |**2024-11-25**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
+|**2024-11-24**|**LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**|Haojie Zhang et.al.|[2411.16748](http://arxiv.org/abs/2411.16748)|null|
+|**2024-11-23**|**EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion**|Haotian Wang et.al.|[2411.16726](http://arxiv.org/abs/2411.16726)|null|
 |**2024-11-23**|**ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with Temporal Guidance**|Haijie Yang et.al.|[2411.15436](http://arxiv.org/abs/2411.15436)|null|
 |**2024-11-20**|**Comparative Analysis of Audio Feature Extraction for Real-Time Talking Portrait Synthesis**|Pegah Salehi et.al.|[2411.13209](http://arxiv.org/abs/2411.13209)|**[link](https://github.com/pegahs1993/whisper-afe-talkingheadsgen)**|
 |**2024-11-20**|**JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**|Xuyang Cao et.al.|[2411.09209](http://arxiv.org/abs/2411.09209)|**[link](https://github.com/jdh-algo/JoyVASA)**|
@@ -639,6 +641,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-24**|**LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**|Haojie Zhang et.al.|[2411.16748](http://arxiv.org/abs/2411.16748)|null|
 |**2024-11-21**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
 |**2024-11-20**|**JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**|Xuyang Cao et.al.|[2411.09209](http://arxiv.org/abs/2411.09209)|**[link](https://github.com/jdh-algo/JoyVASA)**|
 |**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037](http://arxiv.org/abs/2410.24037)|null|
