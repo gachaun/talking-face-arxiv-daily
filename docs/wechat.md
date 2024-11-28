@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.11.27
+> Updated on 2024.11.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -641,7 +641,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Image Animation
 
@@ -656,7 +656,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-09-26, **Text-Guided Synthesis of Eulerian Cinemagraphs**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2307.03190](http://arxiv.org/abs/2307.03190), Code: **[https://github.com/text2cinemagraph/text2cinemagraph](https://github.com/text2cinemagraph/text2cinemagraph)**
 - 2024-10-31, **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**, Sunjae Yoon et.al., Paper: [http://arxiv.org/abs/2410.24037](http://arxiv.org/abs/2410.24037)
 - 2024-07-12, **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**, Jeongho Kim et.al., Paper: [http://arxiv.org/abs/2407.09012](http://arxiv.org/abs/2407.09012)
-- 2024-11-26, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697](http://arxiv.org/abs/2411.17697), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
+- 2024-11-27, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697](http://arxiv.org/abs/2411.17697), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
 - 2021-09-03, **Sparse to Dense Motion Transfer for Face Image Animation**, Ruiqi Zhao et.al., Paper: [http://arxiv.org/abs/2109.00471](http://arxiv.org/abs/2109.00471)
 - 2022-07-19, **Single Stage Virtual Try-on via Deformable Attention Flows**, Shuai Bai et.al., Paper: [http://arxiv.org/abs/2207.09161](http://arxiv.org/abs/2207.09161), Code: **[https://github.com/OFA-Sys/DAFlow](https://github.com/OFA-Sys/DAFlow)**
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
@@ -722,7 +722,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 Notes: 
 
