@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey**|Hong-Hanh Nguyen-Le et.al.|[2411.17911](http://arxiv.org/abs/2411.17911)|null|
 |**2024-11-25**|**Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**|Xiaozhong Ji et.al.|[2411.16331](http://arxiv.org/abs/2411.16331)|null|
 |**2024-11-25**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
 |**2024-11-24**|**LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**|Haojie Zhang et.al.|[2411.16748](http://arxiv.org/abs/2411.16748)|null|
