@@ -70,6 +70,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-04-24, **VR Facial Animation for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2304.12051](http://arxiv.org/abs/2304.12051)
 - 2023-08-11, **VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2308.04830](http://arxiv.org/abs/2308.04830)
 - 2024-04-16, **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**, Sicheng Xu et.al., Paper: [http://arxiv.org/abs/2404.10667](http://arxiv.org/abs/2404.10667)
+- 2024-11-29, **V2SFlow: Video-to-Speech Generation with Speech Decomposition and Rectified Flow**, Jeongsoo Choi et.al., Paper: [http://arxiv.org/abs/2411.19486](http://arxiv.org/abs/2411.19486)
 - 2012-09-22, **Using multimodal speech production data to evaluate articulatory animation for audiovisual speech synthesis**, Ingmar Steiner et.al., Paper: [http://arxiv.org/abs/1209.4982](http://arxiv.org/abs/1209.4982)
 - 2022-05-27, **Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast**, Boqing Zhu et.al., Paper: [http://arxiv.org/abs/2204.14057](http://arxiv.org/abs/2204.14057), Code: **[https://github.com/cocoxili/cmpc](https://github.com/cocoxili/cmpc)**
 - 2023-09-01, **Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**, Wolfgang Paier et.al., Paper: [http://arxiv.org/abs/2306.10006](http://arxiv.org/abs/2306.10006)
@@ -286,6 +287,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-09-23, **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**, Yue Han et.al., Paper: [http://arxiv.org/abs/2409.15179](http://arxiv.org/abs/2409.15179)
 - 2024-04-03, **MI-NeRF: Learning a Single Face NeRF from Multiple Identities**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2403.19920](http://arxiv.org/abs/2403.19920)
 - 2023-03-22, **MARLIN: Masked Autoencoder for facial video Representation LearnINg**, Zhixi Cai et.al., Paper: [http://arxiv.org/abs/2211.06627](http://arxiv.org/abs/2211.06627), Code: **[https://github.com/ControlNet/MARLIN](https://github.com/ControlNet/MARLIN)**
+- 2024-11-29, **LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**, Tianqi Li et.al., Paper: [http://arxiv.org/abs/2411.19525](http://arxiv.org/abs/2411.19525)
 - 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168](http://arxiv.org/abs/2407.03168), Code: **[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**
 - 2021-09-24, **Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2109.10595](http://arxiv.org/abs/2109.10595)
 - 2024-05-12, **Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation**, Changpeng Cai et.al., Paper: [http://arxiv.org/abs/2405.07257](http://arxiv.org/abs/2405.07257)
@@ -488,6 +490,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-09-16, **DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2409.10281](http://arxiv.org/abs/2409.10281)
 - 2023-04-01, **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et.al., Paper: [http://arxiv.org/abs/2304.03117](http://arxiv.org/abs/2304.03117)
 - 2024-09-27, **Diverse Code Query Learning for Speech-Driven Facial Animation**, Chunzhi Gu et.al., Paper: [http://arxiv.org/abs/2409.19143](http://arxiv.org/abs/2409.19143)
+- 2024-11-29, **Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**, Tianqi Li et.al., Paper: [http://arxiv.org/abs/2411.19509](http://arxiv.org/abs/2411.19509)
 - 2023-03-26, **Distributed Solution of the Inverse Rig Problem in Blendshape Facial Animation**, Stevo Racković et.al., Paper: [http://arxiv.org/abs/2303.06370](http://arxiv.org/abs/2303.06370)
 - 2019-12-20, **Disentangling Style and Content in Anime Illustrations**, Sitao Xiang et.al., Paper: [http://arxiv.org/abs/1905.10742](http://arxiv.org/abs/1905.10742)
 - 2020-05-04, **Disentangled Speech Embeddings using Cross-modal Self-supervision**, Arsha Nagrani et.al., Paper: [http://arxiv.org/abs/2002.08742](http://arxiv.org/abs/2002.08742)
