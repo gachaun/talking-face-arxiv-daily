@@ -209,6 +209,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-02-24, **Pose-Controllable 3D Facial Animation Synthesis using Hierarchical Audio-Vertex Attention**, Bin Liu et.al., Paper: [http://arxiv.org/abs/2302.12532](http://arxiv.org/abs/2302.12532)
 - 2024-12-10, **PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**, Fatemeh Nazarieh et.al., Paper: [http://arxiv.org/abs/2412.07754](http://arxiv.org/abs/2412.07754)
 - 2024-05-14, **PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**, Yang Hou et.al., Paper: [http://arxiv.org/abs/2405.08838](http://arxiv.org/abs/2405.08838), Code: **[https://github.com/tobuta/PolyGlotFake](https://github.com/tobuta/PolyGlotFake)**
+- 2024-12-11, **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2412.08504](http://arxiv.org/abs/2412.08504)
 - 2007-08-28, **Plate-forme Magicien d'Oz pour l'étude de l'apport des ACAs à l'interaction**, Jérôme Simonin et.al., Paper: [http://arxiv.org/abs/0708.3740](http://arxiv.org/abs/0708.3740)
 - 2023-10-25, **Personalized Speech-driven Expressive 3D Facial Animation Synthesis with Style Control**, Elif Bozkurt et.al., Paper: [http://arxiv.org/abs/2310.17011](http://arxiv.org/abs/2310.17011)
 - 2024-09-09, **PersonaTalk: Bring Attention to Your Persona in Visual Dubbing**, Longhao Zhang et.al., Paper: [http://arxiv.org/abs/2409.05379](http://arxiv.org/abs/2409.05379)
