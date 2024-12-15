@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.12.14
+> Updated on 2024.12.15
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -321,7 +321,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-22, **LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example**, Soyeon Yoon et.al., Paper: [http://arxiv.org/abs/2403.15227](http://arxiv.org/abs/2403.15227), Code: **[https://github.com/kwanyun/LeGO_code](https://github.com/kwanyun/LeGO_code)**
 - 2023-08-30, **Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**, Antoni Bigata Casademunt et.al., Paper: [http://arxiv.org/abs/2305.08854](http://arxiv.org/abs/2305.08854), Code: **[https://github.com/antonibigata/Laughing-Matters](https://github.com/antonibigata/Laughing-Matters)**
 - 2023-11-02, **LaughTalk: Expressive 3D Talking Head Generation with Laughter**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2311.00994](http://arxiv.org/abs/2311.00994)
-- 2024-12-12, **LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**, Chunyu Li et.al., Paper: [http://arxiv.org/abs/2412.09262](http://arxiv.org/abs/2412.09262)
+- 2024-12-12, **LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**, Chunyu Li et.al., Paper: [http://arxiv.org/abs/2412.09262](http://arxiv.org/abs/2412.09262), Code: **[https://github.com/bytedance/LatentSync](https://github.com/bytedance/LatentSync)**
 - 2020-11-06, **Large-scale multilingual audio visual dubbing**, Yi Yang et.al., Paper: [http://arxiv.org/abs/2011.03530](http://arxiv.org/abs/2011.03530)
 - 2016-07-11, **Large-Scale MIMO is Capable of Eliminating Power-Thirsty Channel Coding for Wireless Transmission of HEVC/H.265 Video**, Shaoshi Yang et.al., Paper: [http://arxiv.org/abs/1601.06684](http://arxiv.org/abs/1601.06684)
 - 2024-11-06, **Large Generative Model-assisted Talking-face Semantic Communication System**, Feibo Jiang et.al., Paper: [http://arxiv.org/abs/2411.03876](http://arxiv.org/abs/2411.03876)
@@ -376,7 +376,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-12-05, **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**, Jiahao Cui et.al., Paper: [http://arxiv.org/abs/2412.00733](http://arxiv.org/abs/2412.00733), Code: **[https://github.com/fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3)**
 - 2023-09-14, **HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**, Yongyuan Li et.al., Paper: [http://arxiv.org/abs/2309.07495](http://arxiv.org/abs/2309.07495), Code: **[https://github.com/yylgoodlucky/hdtr](https://github.com/yylgoodlucky/hdtr)**
 - 2024-04-07, **GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**, Dongjing Shan et.al., Paper: [http://arxiv.org/abs/2404.04924](http://arxiv.org/abs/2404.04924)
-- 2024-12-12, **GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.09296](http://arxiv.org/abs/2412.09296)
+- 2024-12-12, **GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.09296](http://arxiv.org/abs/2412.09296), Code: **[https://github.com/Jia1018/GoHD](https://github.com/Jia1018/GoHD)**
 - 2023-10-08, **GestSync: Determining who is speaking without a talking head**, Sindhu B Hegde et.al., Paper: [http://arxiv.org/abs/2310.05304](http://arxiv.org/abs/2310.05304), Code: **[https://github.com/Sindhu-Hegde/gestsync](https://github.com/Sindhu-Hegde/gestsync)**
 - 2024-10-14, **Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**, Shanzhi Yin et.al., Paper: [http://arxiv.org/abs/2410.10171](http://arxiv.org/abs/2410.10171)
 - 2018-03-28, **Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network**, Hai X. Pham et.al., Paper: [http://arxiv.org/abs/1803.07716](http://arxiv.org/abs/1803.07716)
@@ -656,7 +656,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Image Animation
 
@@ -741,7 +741,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 Notes: 
 

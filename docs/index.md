@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.12.14
+### Automatically Updated on 2024.12.15
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -49,8 +49,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-12**|**GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**|Ziqi Zhou et.al.|[2412.09296](http://arxiv.org/abs/2412.09296)|null|
-|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262](http://arxiv.org/abs/2412.09262)|null|
+|**2024-12-12**|**GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**|Ziqi Zhou et.al.|[2412.09296](http://arxiv.org/abs/2412.09296)|**[link](https://github.com/Jia1018/GoHD)**|
+|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262](http://arxiv.org/abs/2412.09262)|**[link](https://github.com/bytedance/LatentSync)**|
 |**2024-12-12**|**EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**|Gaoxiang Cong et.al.|[2412.08988](http://arxiv.org/abs/2412.08988)|null|
 |**2024-12-11**|**PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis**|Yifan Xie et.al.|[2412.08504](http://arxiv.org/abs/2412.08504)|null|
 |**2024-12-10**|**PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**|Fatemeh Nazarieh et.al.|[2412.07754](http://arxiv.org/abs/2412.07754)|null|
