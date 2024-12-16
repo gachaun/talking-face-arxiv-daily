@@ -68,6 +68,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-11, **Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2308.06076](http://arxiv.org/abs/2308.06076), Code: **[https://github.com/why986/VFA](https://github.com/why986/VFA)**
 - 2023-12-18, **VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**, Hao Hu et.al., Paper: [http://arxiv.org/abs/2312.11568](http://arxiv.org/abs/2312.11568)
 - 2023-04-24, **VR Facial Animation for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2304.12051](http://arxiv.org/abs/2304.12051)
+- 2024-12-13, **VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2412.09892](http://arxiv.org/abs/2412.09892)
 - 2023-08-11, **VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2308.04830](http://arxiv.org/abs/2308.04830)
 - 2024-04-16, **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**, Sicheng Xu et.al., Paper: [http://arxiv.org/abs/2404.10667](http://arxiv.org/abs/2404.10667)
 - 2024-11-29, **V2SFlow: Video-to-Speech Generation with Speech Decomposition and Rectified Flow**, Jeongsoo Choi et.al., Paper: [http://arxiv.org/abs/2411.19486](http://arxiv.org/abs/2411.19486)
