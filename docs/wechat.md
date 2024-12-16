@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.12.15
+> Updated on 2024.12.16
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -376,7 +376,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-12-05, **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**, Jiahao Cui et.al., Paper: [http://arxiv.org/abs/2412.00733](http://arxiv.org/abs/2412.00733), Code: **[https://github.com/fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3)**
 - 2023-09-14, **HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**, Yongyuan Li et.al., Paper: [http://arxiv.org/abs/2309.07495](http://arxiv.org/abs/2309.07495), Code: **[https://github.com/yylgoodlucky/hdtr](https://github.com/yylgoodlucky/hdtr)**
 - 2024-04-07, **GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**, Dongjing Shan et.al., Paper: [http://arxiv.org/abs/2404.04924](http://arxiv.org/abs/2404.04924)
-- 2024-12-12, **GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.09296](http://arxiv.org/abs/2412.09296), Code: **[https://github.com/Jia1018/GoHD](https://github.com/Jia1018/GoHD)**
+- 2024-12-13, **GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.09296](http://arxiv.org/abs/2412.09296), Code: **[https://github.com/Jia1018/GoHD](https://github.com/Jia1018/GoHD)**
 - 2023-10-08, **GestSync: Determining who is speaking without a talking head**, Sindhu B Hegde et.al., Paper: [http://arxiv.org/abs/2310.05304](http://arxiv.org/abs/2310.05304), Code: **[https://github.com/Sindhu-Hegde/gestsync](https://github.com/Sindhu-Hegde/gestsync)**
 - 2024-10-14, **Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**, Shanzhi Yin et.al., Paper: [http://arxiv.org/abs/2410.10171](http://arxiv.org/abs/2410.10171)
 - 2018-03-28, **Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network**, Hai X. Pham et.al., Paper: [http://arxiv.org/abs/1803.07716](http://arxiv.org/abs/1803.07716)
@@ -656,7 +656,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Image Animation
 
@@ -718,7 +718,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-02-02, **Dreamix: Video Diffusion Models are General Video Editors**, Eyal Molad et.al., Paper: [http://arxiv.org/abs/2302.01329](http://arxiv.org/abs/2302.01329)
 - 2024-11-30, **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses**, Yatian Pang et.al., Paper: [http://arxiv.org/abs/2412.00397](http://arxiv.org/abs/2412.00397)
 - 2024-09-22, **Dormant: Defending against Pose-driven Human Image Animation**, Jiachen Zhou et.al., Paper: [http://arxiv.org/abs/2409.14424](http://arxiv.org/abs/2409.14424), Code: **[https://github.com/Manu21JC/Dormant](https://github.com/Manu21JC/Dormant)**
-- 2024-12-12, **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**, Hongxiang Li et.al., Paper: [http://arxiv.org/abs/2412.09349](http://arxiv.org/abs/2412.09349), Code: **[https://github.com/lihxxx/dispose](https://github.com/lihxxx/dispose)**
+- 2024-12-13, **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**, Hongxiang Li et.al., Paper: [http://arxiv.org/abs/2412.09349](http://arxiv.org/abs/2412.09349), Code: **[https://github.com/lihxxx/dispose](https://github.com/lihxxx/dispose)**
 - 2023-11-19, **Differential Motion Evolution for Fine-Grained Motion Deformation in Unsupervised Image Animation**, Peirong Liu et.al., Paper: [http://arxiv.org/abs/2110.04658](http://arxiv.org/abs/2110.04658)
 - 2021-08-18, **DeepFake MNIST+: A DeepFake Facial Animation Dataset**, Jiajun Huang et.al., Paper: [http://arxiv.org/abs/2108.07949](http://arxiv.org/abs/2108.07949), Code: **[https://github.com/huangjiadidi/DeepFakeMnist](https://github.com/huangjiadidi/DeepFakeMnist)**
 - 2020-08-27, **Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation**, Yurui Ren et.al., Paper: [http://arxiv.org/abs/2008.12606](http://arxiv.org/abs/2008.12606), Code: **[https://github.com/RenYurui/Global-Flow-Local-Attention](https://github.com/RenYurui/Global-Flow-Local-Attention)**
@@ -741,7 +741,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 Notes: 
 
