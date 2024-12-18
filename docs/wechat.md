@@ -81,6 +81,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-04-03, **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text**, Pulkit Tandon et.al., Paper: [http://arxiv.org/abs/2106.14014](http://arxiv.org/abs/2106.14014), Code: **[https://github.com/tpulkit/txt2vid](https://github.com/tpulkit/txt2vid)**
 - 2022-04-06, **Transformer-S2A: Robust and Efficient Speech-to-Animation**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2111.09771](http://arxiv.org/abs/2111.09771)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
+- 2024-12-16, **Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content**, Rohit Kundu et.al., Paper: [http://arxiv.org/abs/2412.12278](http://arxiv.org/abs/2412.12278)
 - 2024-04-07, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
 - 2022-01-17, **Towards Realistic Visual Dubbing with Heterogeneous Sources**, Tianyi Xie et.al., Paper: [http://arxiv.org/abs/2201.06260](http://arxiv.org/abs/2201.06260)
 - 2022-10-04, **Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale**, Aditya Agarwal et.al., Paper: [http://arxiv.org/abs/2208.09796](http://arxiv.org/abs/2208.09796)
