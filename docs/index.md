@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Joint Co-Speech Gesture and Expressive Talking Face Generation using Diffusion with Adapters**|Steven Hogue et.al.|[2412.14333](http://arxiv.org/abs/2412.14333)|**[link](https://github.com/ditzley/joint-gestures-and-face)**|
 |**2024-12-18**|**GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection**|Xiaocan Chen et.al.|[2412.13656](http://arxiv.org/abs/2412.13656)|null|
 |**2024-12-18**|**Learning to Control an Android Robot Head for Facial Animation**|Marcel Heisler et.al.|[2412.13641](http://arxiv.org/abs/2412.13641)|null|
 |**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|null|
