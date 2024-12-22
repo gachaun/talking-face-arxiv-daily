@@ -52,7 +52,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-12-18**|**Joint Co-Speech Gesture and Expressive Talking Face Generation using Diffusion with Adapters**|Steven Hogue et.al.|[2412.14333](http://arxiv.org/abs/2412.14333)|**[link](https://github.com/ditzley/joint-gestures-and-face)**|
 |**2024-12-18**|**GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection**|Xiaocan Chen et.al.|[2412.13656](http://arxiv.org/abs/2412.13656)|null|
 |**2024-12-18**|**Learning to Control an Android Robot Head for Facial Animation**|Marcel Heisler et.al.|[2412.13641](http://arxiv.org/abs/2412.13641)|null|
-|**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|null|
+|**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|**[link](https://github.com/Guohanzhong/OSA-LCM)**|
 |**2024-12-18**|**VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization**|Tao Liu et.al.|[2412.09892](http://arxiv.org/abs/2412.09892)|null|
 |**2024-12-16**|**Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content**|Rohit Kundu et.al.|[2412.12278](http://arxiv.org/abs/2412.12278)|null|
 |**2024-12-13**|**GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**|Ziqi Zhou et.al.|[2412.09296](http://arxiv.org/abs/2412.09296)|**[link](https://github.com/Jia1018/GoHD)**|
