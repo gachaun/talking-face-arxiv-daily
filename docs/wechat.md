@@ -691,6 +691,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-12-19, **Move As You Like: Image Animation in E-Commerce Scenario**, Borun Xu et.al., Paper: [http://arxiv.org/abs/2112.13647](http://arxiv.org/abs/2112.13647)
 - 2023-11-30, **Motion-Conditioned Image Animation for Video Editing**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2311.18827](http://arxiv.org/abs/2311.18827)
 - 2022-09-28, **Motion Transformer for Unsupervised Image Animation**, Jiale Tao et.al., Paper: [http://arxiv.org/abs/2209.14024](http://arxiv.org/abs/2209.14024), Code: **[https://github.com/jialetao/motrans](https://github.com/jialetao/motrans)**
+- 2024-12-20, **MotiF: Making Text Count in Image Animation with Motion Focal Loss**, Shijie Wang et.al., Paper: [http://arxiv.org/abs/2412.16153](http://arxiv.org/abs/2412.16153)
 - 2024-01-03, **Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**, David Junhao Zhang et.al., Paper: [http://arxiv.org/abs/2401.01827](http://arxiv.org/abs/2401.01827), Code: **[https://github.com/salesforce/lavis](https://github.com/salesforce/lavis)**
 - 2013-01-25, **Measurements of Martian Dust Devil Winds with HiRISE**, David S. Choi et.al., Paper: [http://arxiv.org/abs/1301.6130](http://arxiv.org/abs/1301.6130)
 - 2023-11-27, **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model**, Zhongcong Xu et.al., Paper: [http://arxiv.org/abs/2311.16498](http://arxiv.org/abs/2311.16498)
