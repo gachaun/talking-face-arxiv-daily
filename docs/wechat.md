@@ -386,6 +386,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-10-14, **Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**, Shanzhi Yin et.al., Paper: [http://arxiv.org/abs/2410.10171](http://arxiv.org/abs/2410.10171)
 - 2018-03-28, **Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network**, Hai X. Pham et.al., Paper: [http://arxiv.org/abs/1803.07716](http://arxiv.org/abs/1803.07716)
 - 2018-04-23, **Generating Talking Face Landmarks from Speech**, Sefik Emre Eskimez et.al., Paper: [http://arxiv.org/abs/1803.09803](http://arxiv.org/abs/1803.09803)
+- 2024-12-26, **Generating Editable Head Avatars with 3D Gaussian GANs**, Guohao Li et.al., Paper: [http://arxiv.org/abs/2412.19149](http://arxiv.org/abs/2412.19149), Code: **[https://github.com/liguohao96/egg3d](https://github.com/liguohao96/egg3d)**
 - 2023-07-04, **Generating Animatable 3D Cartoon Faces from Single Portraits**, Chuanyu Pan et.al., Paper: [http://arxiv.org/abs/2307.01468](http://arxiv.org/abs/2307.01468)
 - 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2301.13430](http://arxiv.org/abs/2301.13430)
 - 2023-05-01, **GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2305.00787](http://arxiv.org/abs/2305.00787)

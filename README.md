@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
 |**2024-12-22**|**FADA: Fast Diffusion Avatar Synthesis with Mixed-Supervised Multi-CFG Distillation**|Tianyun Zhong et.al.|[2412.16915](http://arxiv.org/abs/2412.16915)|null|
 |**2024-12-18**|**Joint Co-Speech Gesture and Expressive Talking Face Generation using Diffusion with Adapters**|Steven Hogue et.al.|[2412.14333](http://arxiv.org/abs/2412.14333)|**[link](https://github.com/ditzley/joint-gestures-and-face)**|
