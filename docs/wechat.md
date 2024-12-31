@@ -78,6 +78,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-07-17, **Universal Facial Encoding of Codec Avatars from VR Headsets**, Shaojie Bai et.al., Paper: [http://arxiv.org/abs/2407.13038](http://arxiv.org/abs/2407.13038)
 - 2024-08-01, **UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**, Xiangyu Fan et.al., Paper: [http://arxiv.org/abs/2408.00762](http://arxiv.org/abs/2408.00762)
 - 2021-08-12, **UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing**, Meng Cao et.al., Paper: [http://arxiv.org/abs/2108.05650](http://arxiv.org/abs/2108.05650)
+- 2024-12-26, **UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control**, Wenzhang Sun et.al., Paper: [http://arxiv.org/abs/2412.19860](http://arxiv.org/abs/2412.19860)
 - 2022-04-03, **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text**, Pulkit Tandon et.al., Paper: [http://arxiv.org/abs/2106.14014](http://arxiv.org/abs/2106.14014), Code: **[https://github.com/tpulkit/txt2vid](https://github.com/tpulkit/txt2vid)**
 - 2022-04-06, **Transformer-S2A: Robust and Efficient Speech-to-Animation**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2111.09771](http://arxiv.org/abs/2111.09771)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
@@ -554,6 +555,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-06-19, **DF40: Toward Next-Generation Deepfake Detection**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2406.13495](http://arxiv.org/abs/2406.13495)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
+- 2024-12-28, **DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis**, Kaijun Deng et.al., Paper: [http://arxiv.org/abs/2412.20148](http://arxiv.org/abs/2412.20148), Code: **[https://github.com/cvi-szu/degstalk](https://github.com/cvi-szu/degstalk)**
 - 2024-08-20, **DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**, Zhijing Shao et.al., Paper: [http://arxiv.org/abs/2408.10588](http://arxiv.org/abs/2408.10588)
 - 2024-08-12, **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**, Jisoo Kim et.al., Paper: [http://arxiv.org/abs/2408.06010](http://arxiv.org/abs/2408.06010)
 - 2024-10-18, **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**, Hanbo Cheng et.al., Paper: [http://arxiv.org/abs/2410.13726](http://arxiv.org/abs/2410.13726), Code: **[https://github.com/hanbo-cheng/dawn-pytorch](https://github.com/hanbo-cheng/dawn-pytorch)**
