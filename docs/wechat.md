@@ -64,6 +64,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-07-20, **VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection**, Joanna Hong et.al., Paper: [http://arxiv.org/abs/2206.07458](http://arxiv.org/abs/2206.07458)
 - 2024-03-22, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
 - 2022-11-27, **VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild**, Kun Cheng et.al., Paper: [http://arxiv.org/abs/2211.14758](http://arxiv.org/abs/2211.14758)
+- 2025-01-02, **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.01427](http://arxiv.org/abs/2501.01427)
 - 2021-10-26, **ViDA-MAN: Visual Dialog with Digital Humans**, Tong Shen et.al., Paper: [http://arxiv.org/abs/2110.13384](http://arxiv.org/abs/2110.13384)
 - 2023-08-11, **Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2308.06076](http://arxiv.org/abs/2308.06076), Code: **[https://github.com/why986/VFA](https://github.com/why986/VFA)**
 - 2023-12-18, **VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**, Hao Hu et.al., Paper: [http://arxiv.org/abs/2312.11568](http://arxiv.org/abs/2312.11568)
@@ -119,6 +120,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-04-01, **TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2304.00334](http://arxiv.org/abs/2304.00334)
 - 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153](http://arxiv.org/abs/2403.20153), Code: **[https://github.com/KU-CVLAB/Talk3D](https://github.com/KU-CVLAB/Talk3D)**
 - 2024-10-18, **Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2410.14283](http://arxiv.org/abs/2410.14283)
+- 2024-12-30, **Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**, Mykola Maslych et.al., Paper: [http://arxiv.org/abs/2501.00168](http://arxiv.org/abs/2501.00168)
 - 2024-04-13, **THQA: A Perceptual Quality Assessment Database for Talking Heads**, Yingjie Zhou et.al., Paper: [http://arxiv.org/abs/2404.09003](http://arxiv.org/abs/2404.09003), Code: **[https://github.com/zyj-2000/thqa](https://github.com/zyj-2000/thqa)**
 - 2023-11-28, **THInImg: Cross-modal Steganography for Presenting Talking Heads in Images**, Lin Zhao et.al., Paper: [http://arxiv.org/abs/2311.17177](http://arxiv.org/abs/2311.17177)
 - 2024-10-14, **TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2410.10696](http://arxiv.org/abs/2410.10696)
