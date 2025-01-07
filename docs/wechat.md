@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.01.06
+> Updated on 2025.01.07
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -671,7 +671,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Image Animation
 
@@ -720,7 +720,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-11-21, **HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2407.17438](http://arxiv.org/abs/2407.17438), Code: **[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)**
 - 2024-09-29, **High Quality Human Image Animation using Regional Supervision and Motion Blur Condition**, Zhongcong Xu et.al., Paper: [http://arxiv.org/abs/2409.19580](http://arxiv.org/abs/2409.19580)
 - 2024-06-16, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
-- 2024-12-05, **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**, Jiahao Cui et.al., Paper: [http://arxiv.org/abs/2412.00733](http://arxiv.org/abs/2412.00733), Code: **[https://github.com/fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3)**
+- 2025-01-04, **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**, Jiahao Cui et.al., Paper: [http://arxiv.org/abs/2412.00733](http://arxiv.org/abs/2412.00733), Code: **[https://github.com/fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3)**
 - 2024-10-14, **Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**, Jiahao Cui et.al., Paper: [http://arxiv.org/abs/2410.07718](http://arxiv.org/abs/2410.07718), Code: **[https://github.com/fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2)**
 - 2016-06-23, **Gender and Interest Targeting for Sponsored Post Advertising at Tumblr**, Mihajlo Grbovic et.al., Paper: [http://arxiv.org/abs/1606.07189](http://arxiv.org/abs/1606.07189)
 - 2024-10-20, **FrameBridge: Improving Image-to-Video Generation with Bridge Models**, Yuji Wang et.al., Paper: [http://arxiv.org/abs/2410.15371](http://arxiv.org/abs/2410.15371)
@@ -757,7 +757,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 Notes: 
 
