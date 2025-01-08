@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.01.07
+> Updated on 2025.01.08
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -64,7 +64,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-07-20, **VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection**, Joanna Hong et.al., Paper: [http://arxiv.org/abs/2206.07458](http://arxiv.org/abs/2206.07458)
 - 2024-03-22, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
 - 2022-11-27, **VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild**, Kun Cheng et.al., Paper: [http://arxiv.org/abs/2211.14758](http://arxiv.org/abs/2211.14758)
-- 2025-01-06, **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.01427](http://arxiv.org/abs/2501.01427)
+- 2025-01-07, **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.01427](http://arxiv.org/abs/2501.01427)
 - 2021-10-26, **ViDA-MAN: Visual Dialog with Digital Humans**, Tong Shen et.al., Paper: [http://arxiv.org/abs/2110.13384](http://arxiv.org/abs/2110.13384)
 - 2023-08-11, **Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2308.06076](http://arxiv.org/abs/2308.06076), Code: **[https://github.com/why986/VFA](https://github.com/why986/VFA)**
 - 2023-12-18, **VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**, Hao Hu et.al., Paper: [http://arxiv.org/abs/2312.11568](http://arxiv.org/abs/2312.11568)
@@ -120,7 +120,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-04-01, **TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2304.00334](http://arxiv.org/abs/2304.00334)
 - 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153](http://arxiv.org/abs/2403.20153), Code: **[https://github.com/KU-CVLAB/Talk3D](https://github.com/KU-CVLAB/Talk3D)**
 - 2024-10-18, **Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2410.14283](http://arxiv.org/abs/2410.14283)
-- 2024-12-30, **Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**, Mykola Maslych et.al., Paper: [http://arxiv.org/abs/2501.00168](http://arxiv.org/abs/2501.00168)
+- 2025-01-06, **Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**, Mykola Maslych et.al., Paper: [http://arxiv.org/abs/2501.00168](http://arxiv.org/abs/2501.00168)
 - 2024-04-13, **THQA: A Perceptual Quality Assessment Database for Talking Heads**, Yingjie Zhou et.al., Paper: [http://arxiv.org/abs/2404.09003](http://arxiv.org/abs/2404.09003), Code: **[https://github.com/zyj-2000/thqa](https://github.com/zyj-2000/thqa)**
 - 2023-11-28, **THInImg: Cross-modal Steganography for Presenting Talking Heads in Images**, Lin Zhao et.al., Paper: [http://arxiv.org/abs/2311.17177](http://arxiv.org/abs/2311.17177)
 - 2024-10-14, **TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2410.10696](http://arxiv.org/abs/2410.10696)
@@ -672,7 +672,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Image Animation
 
@@ -758,7 +758,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 Notes: 
 
