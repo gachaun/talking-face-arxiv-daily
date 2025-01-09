@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Identity-Preserving Video Dubbing Using Motion Warping**|Runzhen Liu et.al.|[2501.04586](http://arxiv.org/abs/2501.04586)|null|
 |**2025-01-07**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427](http://arxiv.org/abs/2501.01427)|null|
 |**2025-01-06**|**RDD4D: 4D Attention-Guided Road Damage Detection And Classification**|Asma Alkalbani et.al.|[2501.02822](http://arxiv.org/abs/2501.02822)|**[link](https://github.com/msaqib17/road_damage_detection)**|
 |**2025-01-06**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
