@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Make-A-Character 2: Animatable 3D Character Generation From a Single Image**|Lin Liu et.al.|[2501.07870](http://arxiv.org/abs/2501.07870)|null|
 |**2025-01-09**|**Identity-Preserving Video Dubbing Using Motion Warping**|Runzhen Liu et.al.|[2501.04586](http://arxiv.org/abs/2501.04586)|null|
 |**2025-01-09**|**MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**|Huaize Liu et.al.|[2501.01808](http://arxiv.org/abs/2501.01808)|null|
 |**2025-01-07**|**Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools**|Arash Dehghani et.al.|[2501.06227](http://arxiv.org/abs/2501.06227)|null|
