@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.01.15
+> Updated on 2025.01.16
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -292,7 +292,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-11-19, **MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets**, Sungjoo Ha et.al., Paper: [http://arxiv.org/abs/1911.08139](http://arxiv.org/abs/1911.08139)
 - 2021-02-25, **MakeItTalk: Speaker-Aware Talking-Head Animation**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2004.12992](http://arxiv.org/abs/2004.12992)
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
-- 2025-01-14, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
+- 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
 - 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
 - 2024-10-10, **MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**, Sijing Wu et.al., Paper: [http://arxiv.org/abs/2410.07757](http://arxiv.org/abs/2410.07757)
@@ -675,7 +675,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Image Animation
 
@@ -762,7 +762,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 Notes: 
 

@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.01.15
+### Automatically Updated on 2025.01.16
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -53,7 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-14**|**Make-A-Character 2: Animatable 3D Character Generation From a Single Image**|Lin Liu et.al.|[2501.07870](http://arxiv.org/abs/2501.07870)|null|
+|**2025-01-15**|**Make-A-Character 2: Animatable 3D Character Generation From a Single Image**|Lin Liu et.al.|[2501.07870](http://arxiv.org/abs/2501.07870)|null|
 |**2025-01-09**|**Identity-Preserving Video Dubbing Using Motion Warping**|Runzhen Liu et.al.|[2501.04586](http://arxiv.org/abs/2501.04586)|null|
 |**2025-01-09**|**MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**|Huaize Liu et.al.|[2501.01808](http://arxiv.org/abs/2501.01808)|null|
 |**2025-01-07**|**Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools**|Arash Dehghani et.al.|[2501.06227](http://arxiv.org/abs/2501.06227)|null|
@@ -675,7 +675,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Image Animation
 
@@ -765,7 +765,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 Notes: 
 
