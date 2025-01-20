@@ -105,6 +105,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-07-20, **Text-based Talking Video Editing with Cascaded Conditional Diffusion**, Bo Han et.al., Paper: [http://arxiv.org/abs/2407.14841](http://arxiv.org/abs/2407.14841)
 - 2019-06-04, **Text-based Editing of Talking-head Video**, Ohad Fried et.al., Paper: [http://arxiv.org/abs/1906.01524](http://arxiv.org/abs/1906.01524)
 - 2024-04-23, **TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2404.15264](http://arxiv.org/abs/2404.15264)
+- 2025-01-17, **TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation**, Yixiang Zhuang et.al., Paper: [http://arxiv.org/abs/2501.09921](http://arxiv.org/abs/2501.09921)
 - 2020-07-16, **Talking-head Generation with Rhythmic Head Motion**, Lele Chen et.al., Paper: [http://arxiv.org/abs/2007.08547](http://arxiv.org/abs/2007.08547), Code: **[https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)**
 - 2020-03-05, **Talking-Heads Attention**, Noam Shazeer et.al., Paper: [http://arxiv.org/abs/2003.02436](http://arxiv.org/abs/2003.02436), Code: **[https://github.com/zygmuntz/hyperband](https://github.com/zygmuntz/hyperband)**
 - 2024-06-13, **Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**, Jack Merullo et.al., Paper: [http://arxiv.org/abs/2406.09519](http://arxiv.org/abs/2406.09519)
@@ -680,6 +681,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 ## Image Animation
 
+- 2025-01-17, **X-Dyna: Expressive Dynamic Human Image Animation**, Di Chang et.al., Paper: [http://arxiv.org/abs/2501.10021](http://arxiv.org/abs/2501.10021), Code: **[https://github.com/bytedance/x-dyna](https://github.com/bytedance/x-dyna)**
 - 2024-05-28, **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**, Qilin Wang et.al., Paper: [http://arxiv.org/abs/2405.18156](http://arxiv.org/abs/2405.18156)
 - 2023-04-12, **VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**, Moayed Haji Ali et.al., Paper: [http://arxiv.org/abs/2304.06020](http://arxiv.org/abs/2304.06020)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
