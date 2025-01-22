@@ -507,6 +507,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-09-11, **EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**, Jian Zhang et.al., Paper: [http://arxiv.org/abs/2409.07255](http://arxiv.org/abs/2409.07255)
 - 2024-04-29, **EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars**, Nikita Drobyshev et.al., Paper: [http://arxiv.org/abs/2404.19110](http://arxiv.org/abs/2404.19110)
 - 2024-02-27, **EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**, Linrui Tian et.al., Paper: [http://arxiv.org/abs/2402.17485](http://arxiv.org/abs/2402.17485)
+- 2025-01-18, **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**, Linrui Tian et.al., Paper: [http://arxiv.org/abs/2501.10687](http://arxiv.org/abs/2501.10687)
 - 2024-04-11, **EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**, Trung Tuan Dao et.al., Paper: [http://arxiv.org/abs/2312.17205](http://arxiv.org/abs/2312.17205)
 - 2024-04-02, **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2404.01647](http://arxiv.org/abs/2404.01647)
 - 2018-08-19, **Dynamic Temporal Alignment of Speech to Lips**, Tavi Halperin et.al., Paper: [http://arxiv.org/abs/1808.06250](http://arxiv.org/abs/1808.06250), Code: **[https://github.com/tavihalperin/AV-sync](https://github.com/tavihalperin/AV-sync)**
@@ -660,6 +661,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-05-05, **A Neural Lip-Sync Framework for Synthesizing Photorealistic Virtual News Anchors**, Ruobing Zheng et.al., Paper: [http://arxiv.org/abs/2002.08700](http://arxiv.org/abs/2002.08700)
 - 2023-03-27, **A Majorization-Minimization Based Method for Nonconvex Inverse Rig Problems in Facial Animation: Algorithm Derivation**, Stevo Racković et.al., Paper: [http://arxiv.org/abs/2205.04289](http://arxiv.org/abs/2205.04289)
 - 2020-08-23, **A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild**, K R Prajwal et.al., Paper: [http://arxiv.org/abs/2008.10010](http://arxiv.org/abs/2008.10010), Code: **[https://github.com/Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)**
+- 2025-01-21, **A Lightweight and Interpretable Deepfakes Detection Framework**, Muhammad Umar Farooq et.al., Paper: [http://arxiv.org/abs/2501.11927](http://arxiv.org/abs/2501.11927)
 - 2022-10-07, **A Keypoint Based Enhancement Method for Audio Driven Free View Talking Head Synthesis**, Yichen Han et.al., Paper: [http://arxiv.org/abs/2210.03335](http://arxiv.org/abs/2210.03335)
 - 2022-07-27, **A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2207.13530](http://arxiv.org/abs/2207.13530)
 - 2019-10-15, **A High-Fidelity Open Embodied Avatar with Lip Syncing and Expression Capabilities**, Deepali Aneja et.al., Paper: [http://arxiv.org/abs/1909.08766](http://arxiv.org/abs/1909.08766), Code: **[https://github.com/danmcduff/AvatarSim](https://github.com/danmcduff/AvatarSim)**
@@ -681,7 +683,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 ## Image Animation
 
-- 2025-01-17, **X-Dyna: Expressive Dynamic Human Image Animation**, Di Chang et.al., Paper: [http://arxiv.org/abs/2501.10021](http://arxiv.org/abs/2501.10021), Code: **[https://github.com/bytedance/x-dyna](https://github.com/bytedance/x-dyna)**
+- 2025-01-20, **X-Dyna: Expressive Dynamic Human Image Animation**, Di Chang et.al., Paper: [http://arxiv.org/abs/2501.10021](http://arxiv.org/abs/2501.10021), Code: **[https://github.com/bytedance/x-dyna](https://github.com/bytedance/x-dyna)**
 - 2024-05-28, **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**, Qilin Wang et.al., Paper: [http://arxiv.org/abs/2405.18156](http://arxiv.org/abs/2405.18156)
 - 2023-04-12, **VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**, Moayed Haji Ali et.al., Paper: [http://arxiv.org/abs/2304.06020](http://arxiv.org/abs/2304.06020)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
