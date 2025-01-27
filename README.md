@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-21**|**A Lightweight and Interpretable Deepfakes Detection Framework**|Muhammad Umar Farooq et.al.|[2501.11927](http://arxiv.org/abs/2501.11927)|null|
 |**2025-01-18**|**EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**|Linrui Tian et.al.|[2501.10687](http://arxiv.org/abs/2501.10687)|null|
 |**2025-01-17**|**TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation**|Yixiang Zhuang et.al.|[2501.09921](http://arxiv.org/abs/2501.09921)|null|
