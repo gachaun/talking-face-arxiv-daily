@@ -55,6 +55,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-01-17**|**TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation**|Yixiang Zhuang et.al.|[2501.09921](http://arxiv.org/abs/2501.09921)|null|
 |**2025-01-15**|**Joint Learning of Depth and Appearance for Portrait Image Animation**|Xinya Ji et.al.|[2501.08649](http://arxiv.org/abs/2501.08649)|null|
 |**2025-01-15**|**Make-A-Character 2: Animatable 3D Character Generation From a Single Image**|Lin Liu et.al.|[2501.07870](http://arxiv.org/abs/2501.07870)|null|
+|**2025-01-09**|**Towards Dynamic Neural Communication and Speech Neuroprosthesis Based on Viseme Decoding**|Ji-Ha Park et.al.|[2501.14790](http://arxiv.org/abs/2501.14790)|null|
 |**2025-01-09**|**Identity-Preserving Video Dubbing Using Motion Warping**|Runzhen Liu et.al.|[2501.04586](http://arxiv.org/abs/2501.04586)|null|
 |**2025-01-09**|**MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**|Huaize Liu et.al.|[2501.01808](http://arxiv.org/abs/2501.01808)|null|
 |**2025-01-07**|**Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools**|Arash Dehghani et.al.|[2501.06227](http://arxiv.org/abs/2501.06227)|null|

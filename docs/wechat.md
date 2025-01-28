@@ -88,6 +88,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-01-17, **Towards Realistic Visual Dubbing with Heterogeneous Sources**, Tianyi Xie et.al., Paper: [http://arxiv.org/abs/2201.06260](http://arxiv.org/abs/2201.06260)
 - 2022-10-04, **Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale**, Aditya Agarwal et.al., Paper: [http://arxiv.org/abs/2208.09796](http://arxiv.org/abs/2208.09796)
 - 2018-11-22, **Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos**, Ying Tai et.al., Paper: [http://arxiv.org/abs/1811.00342](http://arxiv.org/abs/1811.00342), Code: **[https://github.com/tyshiwo/FHR_alignment](https://github.com/tyshiwo/FHR_alignment)**
+- 2025-01-09, **Towards Dynamic Neural Communication and Speech Neuroprosthesis Based on Viseme Decoding**, Ji-Ha Park et.al., Paper: [http://arxiv.org/abs/2501.14790](http://arxiv.org/abs/2501.14790)
 - 2020-03-01, **Towards Automatic Face-to-Face Translation**, Prajwal K R et.al., Paper: [http://arxiv.org/abs/2003.00418](http://arxiv.org/abs/2003.00418), Code: **[https://github.com/Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN)**
 - 2023-08-24, **ToonTalker: Cross-Domain Face Reenactment**, Yuan Gong et.al., Paper: [http://arxiv.org/abs/2308.12866](http://arxiv.org/abs/2308.12866)
 - 2024-10-15, **Titanic Calling: Low Bandwidth Video Conference from the Titanic Wreck**, Fevziye Irem Eyiokur et.al., Paper: [http://arxiv.org/abs/2410.11434](http://arxiv.org/abs/2410.11434)
