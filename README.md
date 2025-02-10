@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark**|Han Zhang et.al.|[2502.04976](http://arxiv.org/abs/2502.04976)|null|
 |**2025-02-06**|**VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**|Eason Chen et.al.|[2502.04103](http://arxiv.org/abs/2502.04103)|null|
 |**2025-02-02**|**EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis**|Junuk Cha et.al.|[2502.00654](http://arxiv.org/abs/2502.00654)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
