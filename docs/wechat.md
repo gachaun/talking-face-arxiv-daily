@@ -68,7 +68,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-10-26, **ViDA-MAN: Visual Dialog with Digital Humans**, Tong Shen et.al., Paper: [http://arxiv.org/abs/2110.13384](http://arxiv.org/abs/2110.13384)
 - 2023-08-11, **Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2308.06076](http://arxiv.org/abs/2308.06076), Code: **[https://github.com/why986/VFA](https://github.com/why986/VFA)**
 - 2023-12-18, **VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**, Hao Hu et.al., Paper: [http://arxiv.org/abs/2312.11568](http://arxiv.org/abs/2312.11568)
-- 2025-02-06, **VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**, Eason Chen et.al., Paper: [http://arxiv.org/abs/2502.04103](http://arxiv.org/abs/2502.04103)
+- 2025-02-13, **VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**, Eason Chen et.al., Paper: [http://arxiv.org/abs/2502.04103](http://arxiv.org/abs/2502.04103)
 - 2023-04-24, **VR Facial Animation for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2304.12051](http://arxiv.org/abs/2304.12051)
 - 2024-12-18, **VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2412.09892](http://arxiv.org/abs/2412.09892)
 - 2023-08-11, **VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2308.04830](http://arxiv.org/abs/2308.04830)
@@ -308,6 +308,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-04-03, **MI-NeRF: Learning a Single Face NeRF from Multiple Identities**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2403.19920](http://arxiv.org/abs/2403.19920)
 - 2024-12-05, **MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**, Longtao Zheng et.al., Paper: [http://arxiv.org/abs/2412.04448](http://arxiv.org/abs/2412.04448)
 - 2023-03-22, **MARLIN: Masked Autoencoder for facial video Representation LearnINg**, Zhixi Cai et.al., Paper: [http://arxiv.org/abs/2211.06627](http://arxiv.org/abs/2211.06627), Code: **[https://github.com/ControlNet/MARLIN](https://github.com/ControlNet/MARLIN)**
+- 2025-02-13, **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**, Fei Shen et.al., Paper: [http://arxiv.org/abs/2502.09533](http://arxiv.org/abs/2502.09533)
 - 2024-11-29, **LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**, Tianqi Li et.al., Paper: [http://arxiv.org/abs/2411.19525](http://arxiv.org/abs/2411.19525)
 - 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168](http://arxiv.org/abs/2407.03168), Code: **[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**
 - 2021-09-24, **Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2109.10595](http://arxiv.org/abs/2109.10595)
