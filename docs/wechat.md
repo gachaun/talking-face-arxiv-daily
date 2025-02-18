@@ -168,6 +168,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-10-13, **Sparse in Space and Time: Audio-visual Synchronisation with Trainable Selectors**, Vladimir Iashin et.al., Paper: [http://arxiv.org/abs/2210.07055](http://arxiv.org/abs/2210.07055), Code: **[https://github.com/v-iashin/sparsesync](https://github.com/v-iashin/sparsesync)**
 - 2024-11-25, **Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**, Xiaozhong Ji et.al., Paper: [http://arxiv.org/abs/2411.16331](http://arxiv.org/abs/2411.16331)
 - 2021-08-06, **SofGAN: A Portrait Image Generator with Dynamic Styling**, Anpei Chen et.al., Paper: [http://arxiv.org/abs/2007.03780](http://arxiv.org/abs/2007.03780), Code: **[https://github.com/apchenstu/sofgan](https://github.com/apchenstu/sofgan)**
+- 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841)
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
 - 2023-12-08, **SingingHead: A Large-scale 4D Dataset for Singing Head Animation**, Sijing Wu et.al., Paper: [http://arxiv.org/abs/2312.04369](http://arxiv.org/abs/2312.04369)
 - 2009-12-03, **Sequential Clustering based Facial Feature Extraction Method for Automatic Creation of Facial Models from Orthogonal Views**, Alireza Ghahari et.al., Paper: [http://arxiv.org/abs/0912.0600](http://arxiv.org/abs/0912.0600)
@@ -177,6 +178,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2020-09-02, **Seeing wake words: Audio-visual Keyword Spotting**, Liliane Momeni et.al., Paper: [http://arxiv.org/abs/2009.01225](http://arxiv.org/abs/2009.01225)
 - 2023-03-29, **Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**, Jiadong Wang et.al., Paper: [http://arxiv.org/abs/2303.17480](http://arxiv.org/abs/2303.17480), Code: **[https://github.com/sxjdwang/talklip](https://github.com/sxjdwang/talklip)**
 - 2024-03-19, **ScanTalk: 3D Talking Heads from Unregistered Scans**, Federico Nocentini et.al., Paper: [http://arxiv.org/abs/2403.10942](http://arxiv.org/abs/2403.10942)
+- 2025-02-17, **SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**, Junxian Ma et.al., Paper: [http://arxiv.org/abs/2502.11515](http://arxiv.org/abs/2502.11515)
 - 2024-03-13, **Say Anything with Any Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06363](http://arxiv.org/abs/2403.06363)
 - 2024-08-18, **S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**, Dongze Li et.al., Paper: [http://arxiv.org/abs/2408.09347](http://arxiv.org/abs/2408.09347)
 - 2024-09-05, **SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**, Weipeng Tan et.al., Paper: [http://arxiv.org/abs/2409.03270](http://arxiv.org/abs/2409.03270)
@@ -705,6 +707,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-07-12, **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**, Jeongho Kim et.al., Paper: [http://arxiv.org/abs/2407.09012](http://arxiv.org/abs/2407.09012)
 - 2024-11-27, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697](http://arxiv.org/abs/2411.17697), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
 - 2021-09-03, **Sparse to Dense Motion Transfer for Face Image Animation**, Ruiqi Zhao et.al., Paper: [http://arxiv.org/abs/2109.00471](http://arxiv.org/abs/2109.00471)
+- 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841)
 - 2022-07-19, **Single Stage Virtual Try-on via Deformable Attention Flows**, Shuai Bai et.al., Paper: [http://arxiv.org/abs/2207.09161](http://arxiv.org/abs/2207.09161), Code: **[https://github.com/OFA-Sys/DAFlow](https://github.com/OFA-Sys/DAFlow)**
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
 - 2018-01-31, **RAPTOR I: Time-dependent radiative transfer in arbitrary spacetimes**, Thomas Bronzwaer et.al., Paper: [http://arxiv.org/abs/1801.10452](http://arxiv.org/abs/1801.10452)
